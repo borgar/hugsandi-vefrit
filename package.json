@@ -7,10 +7,10 @@
     "build": "gannet --settings=settings.conf",
     "dev": "gannet --settings=settings.conf --server",
     "test": "gannet --settings=settings.conf --verbose --server",
-    "clean": "rm -r site"
+    "clean": "rm -r docs"
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "gannet": "~2.0.0"
+    "gannet": "~2.1.0"
   }
 }
