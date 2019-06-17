@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}{{ page.title }}{% endblock %}
+{% block bodyclass %}single{% endblock %}
+
+{% block content %}
+
+{% import "macros.html" as make %}
+{{ make.display( page, true ) }}
+
+{% endblock %}

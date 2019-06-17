@@ -1,0 +1,51 @@
+Title: Konur og fjölmiðlar
+Subtitle: Kosningarbaráttan 2003
+Slug: konur-og-fjolmidlar
+Date: 2007-05-03 12:46:00
+Part: 2/2
+UID: 155
+Lang: is
+Author: Hrafnhildur Ragnarsdóttir
+Author URL: 
+Category: Stjórnmálafræði, Kynjafræði
+Tags: 
+
+![Tískuteymi SI ](359.jpg)
+
+Hvað finnst íslenskum stjórnmálakonum þegar þær eru spurðar hvort þær telji fjölmiðla mismuna þeim sjálfum eða öðrum stjórnmálakonum á forsendum kyns? Hér á eftir fer stutt útlistun á könnun sem samanstóð af sjö spurningum sem sendar voru til allra kvenna á framboðslistum eftir Alþingiskosningarnar 2003. Alls svöruðu könnuninni 36 konur úr öllum flokkum, þar af hlutu 10 kosningu. Spurt var hvort þær hefðu fengið kosningu; hvort þær teldu sig hafa fengið sanngjarna umfjöllun; hvort umfjöllunin hafi verið öðruvísi en um karlmann í sömu stöðu og þá á hvaða hátt; og hvernig þær töldu að fjallað hafi verið um aðra kvenkynsframbjóðendur. Að lokum fengu þær opna spurningu sem var hugsuð til að þær gætu komið fleiru á framfæri og nýttu margar þeirra það.[^1]
+
+Þegar spurt var hvort kvenframbjóðendurnir teldu umfjöllun um sig ósanngjarna svöruðu 19 þeirra hvorki né, en margar þeirra sem svöruðu sátu svo aftarlega á lista að þær fengu enga umfjöllun. Mikill meirihluti svarenda, eða 28 konur, töldu aðrar konur fá ósanngjarna umfjöllun en einungis átta konur töldu sig sjálfa hafa fengið ósanngjarna umfjöllun. Það er þó áhugavert að sjá að þær 10 konur sem fengu kosningu töldu fjölmiðla ekki hafa fjallað um sig á ósanngjarnan hátt. Þetta eru þær konur sem fengu mesta athygli fjölmiðla fyrir kosningarnar og jafnframt þær sömu og aðrar konur í könnuninni vísa til þegar þær nefna konur sem fengið hafi ósanngjarna meðferð hjá fjölmiðlum. 
+
+Meirihluti kvennanna taldi kvenframbjóðendur fá mun minni umfjöllun en karla í sambærilegum sætum. Kvenframbjóðendur væru gjarnan hunsaðar af fjölmiðlum og sjaldan væri haft samband við þær. Ástæðan að baki því, að þeirra mati, var skortur á áhuga á því sem konurnar höfðu fram að færa. 
+
+Fjórar þeirra kvenna sem töldu umfjöllunina sanngjarna sögðu hana þó ólíka umfjöllun um karlframbjóðendur. Sérstaklega hvað varðaði áherslur á útlit kvenna og hjúskaparstöðu, en einnig væri fátíðara að talað væri við konur. Önnur lýsingarorð væru notuð yfir kvenframbjóðendur og gjarnan vísað í þær sem hóp, á meðan karlmenn væru alltaf einstaklingar. Tvær kvennanna töldu þó skipta meira máli úr hvaða kjördæmi einstaklingur kæmi en hvert kynferði hans væri. 
+
+Níu svarendur sögðu fjölmiðla leggja mikla áherslu á útlit kvenna, s.s. klæðaburð, vaxtarlag og aldur. Þær fengju spurningar sem karlmenn fengju aldrei, t.d. um hjúskaparstöðu, börn eða barnleysi, uppskriftir og tísku, og jafnvel hvort það væri ekki of mikið að gera hjá þeim til að vera að vasast í stjórnmálum. Þær töldu þessar spuningar mjög kynjaðar og fordómafullar og styrkja kynjaðar staðalmyndir. Sami fjöldi kvenna taldi svör kvenna ekki tekin eins alvarlega og karla og þær væru ekki álitnar „alvarlegir“ pólitíkusar.
+
+Hluti kvennanna tók sérstaklega fram hversu mikið betri aðgang karlar hefðu að fjölmiðlum, þar sem þeir eru bæði í eigu og undir stjórn karla. Þar nýttu karlar sér tengslanet sitt sem myndast í gegnum störf þeirra og stöður. Karlar hefðu þannig meiri stjórn á því hvernig umfjöllun þeir fengju, öfugt við konur sem þyrftu að þiggja það sem að þeim er rétt. Konur eigi jafnframt erfitt með að fá um sig jákvæða og áhugaverða umfjöllun. Einungis konur í efstu sætum fengju umfjöllun en karlmenn væru vinsælt fjölmiðlaefni sama í hvaða sæti þeir væru. 
+
+Margar kvennanna sögðu karlmenn hafa meiri stuðning innan síns flokks, þar sem þeir eru í meirihluta, sem leiði samtímis til útilokunar á konum. Þetta komi skýrt í ljós þegar kemur að vali í nefndir og stöður þar sem konur verða jafnan útundan. Flokkarnir nýti sér ekki þekkingu og reynslu kvenna sem komi greinilega í ljós í prófkjörum þar sem hæfniskröfur séu allar mjög karllægar. Konurnar þyrftu því að berjast gegn fordómum innan eigins flokks. 
+
+Ein kvenframbjóðendanna sem sat í einu af efstu sætum síns lista (en fékk ekki kosningu) taldi komið fram við sig á allt annan hátt en karla í sömu stöðu. Fjölmiðlar hefðu að mestu litið framhjá henni þrátt fyrir langa reynslu í stjórnmálum og þess að hafa gegnt ábyrgðarstöðu innan síns flokks. Hún taldi fjölmiðla bera minni virðingu fyrir stjórnmálakonum og sniðganga þær. Hún sagði einnig að almennt væru konur tilbúnari til að fórna eigin hagsmunum fyrir heildarhagsmuni flokksins. Karlar væru aftur á móti sjaldan tilbúnir til að gefa eftir sæti. 
+
+Meirihluti svarenda tóku fram að konur væru frekar spurðar út í mjúku málefnin. Ein svarenda sagði að þrátt fyrir að vera með menntun og langa reynslu í sjávarútvegi væru spurningum um þann málaflokk aldrei beint til hennar heldur alltaf til karlmannsins við hliðina á henni, þó hann hefði litla þekkingu á efninu. Önnur sagði það vera mótsagnakennt að úthluta konum mjúku málefnunum en körlum harðari. Hún spurði á móti „er rafmagn, byggingar og samgöngumál, hafnargerð o.s.frv. ekki nauðsynlegt okkur konum jafnt sem körlum? Nota karlar ekki skóla og heilbrigðisþjónustu?“
+
+Ein kvenframbjóðendanna, sem hafði einungis verið spurð hvað væri í snyrtitöskunni hennar og hvernig væri að eiga afmæli 1. maí, taldi einu konuna sem hefði fengið nokkra athygli svo máli skipti, vera leiðtoga Samfylkingarinnar. Það væri eins og það væri nóg að hafa eina konu, eða KONUNA, sem tákn um að konur væru jú líka í stjórnmálum og ekki þyrfti að eyða meiri tíma í kvenkynið eftir það. Þessari konu þótti heldur ömurlegt að þurfa að svara spurningum um snyrtiveskið sitt til að fá einhverja umfjöllun.
+
+Margar kvennanna töldu konum mismunað á ýmsan hátt. Algengt væri að hugmyndir kvenna væru eignaðar körlum. Hæfni kvenna væri alltaf undir stækkunarglerinu því alltaf þegar skipa ætti konu í nefnd þá kæmi upp umræðan um _hæfni_ konunnar sem væri fjarri þegar karlar voru tilnefndir. Ósanngjörnum spurningum væri beint til kvenna á opinberum fundum, í tilraun til að niðurlægja þær. Ein frambjóðendanna sagði frá því þegar hún þurfti á fundi að benda fundarstjóra á að hann hefði kynnt alla nema hana. Hann svaraði að ekki skildi hann hvernig hann hefði getað gleymt henni eins sæt og hún væri. 
+
+Meirhluti kvenframbjóðendanna voru meðvitaðar um það að fjölmiðlar kæmu öðruvísi fram við konur en karlmenn. Umfjöllun í fjölmiðlum er undir áhrifum af hefðbundnum viðhorfum í okkar samfélagi um hlutverk kvenna í þjóðfélaginu sem fellur illa að jafn opinberu hlutverki sem þátttaka í stjórnmálum krefst. 
+
+Svör kvennanna voru í fullu samræmi við kenningar feminískra fræðikvenna um ofuráherslu á útlit stjórnmálakvenna, hjúskaparstöðu og fjölskylduábyrgð þeirra. Einnig hvernig fjölmiðlar tækju þær sjaldnast alvarlega og sýndu þeim takmarkaðan áhuga nema þegar kæmi að „hinni kvenlegu hlið“. Þannig endurspegla fjölmiðlar hefbundin og jafnvel úrelt viðhorf í samfélagi okkar þrátt fyrir yfirlýsingar um hlutleysi.
+
+Þær konur sem töldu umfjöllunina vera sanngjarna komust flestar eilítið í mótsögn við sjálfa sig þar sem þær tóku allar fram í næstu spurningum að meiri áhersla væri lögð á útlit kvenna og að þær fengju síður umfjöllun en karlmenn í sömu stöðum.
+
+Það sem kom þó nokkuð á óvart var að allar þær konur sem fengu kosningu töldu umfjöllunina sanngjarna gagnvart þeim sjálfum. Þau svör falla vel að kenningu Sreberny-Mohammadi og Ross að konur séu ekki tilbúnar til að viðurkenna að þær sjálfar hafi orðið fyrir barðinu á óvinsamlegum fjölmiðlum. Þetta sé hluti af sjálfsvörn kvenna sem mega engin veikleikamerki á sér sýna í hinum harða heimi stjórnmálanna.  
+
+Ekki er hægt að draga aðra niðurstöðu en þá að fjölmiðlar gera konum erfitt um vik í stjórnmálum með því að veita þeim takmarkaðan aðgang að umræðum, þröngva upp á þær kynjuðum staðalmyndum og gagnrýna þær harkalegar en karlkyns félaga þeirra. Fjölmiðlar virðast hafa tilhneigingu til að fyrirfram skilgreina áhugasvið þeirra, málaflokka og hæfni, eða skort þar á. Spurningar sem gefa í skyn að konur ráði ekki við verkefnið og viðtöl sem snúast einungis um útlit og fjölskyldu hljóta að hafa áhrif á hugmyndir fólks um umrædda stjórnmálakonu.
+
+Fjölmiðlar eru í gífurlega sterkri stöðu til að hafa áhrif á gang mála í kosningabaráttum. Það að sniðganga konur eða reyna að gera þær kjánalegar í fjölmiðlum getur skorið úr um frama þeirra í stjórnmálum. Ef fjölmiðlar eiga að vera hið svokallaða þriðja vald í okkar samfélagi þá verða þeir að gæta fyllsta hlutleysis og veita konum og körlum jöfn tækifæri til að koma sér og sínum málum á framfæri. 
+
+[^1]: Þessi grein byggir á rannsókn minni við London School of Economics á því hvernig mynd kvenframbjóðendum í kosningabaráttunni 2003 fannst dregin upp af þeim sjálfum sem og öðrum kvenframbjóðendum í fjölmiðlum, þá fyrst og fremst í dagblöðum.
+
+

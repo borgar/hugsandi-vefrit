@@ -1,0 +1,49 @@
+Title: Í upphafi skyldi endinn skoða
+Slug: i-upphafi-skyldi-endinn-skoda
+Date: 2008-04-24 12:14:06
+UID: 274
+Lang: is
+Author: Soffía Sveinsdóttir
+Author URL: 
+Category: Mannauðsstjórnun
+Tags: þjálfun, stuðningur, móttaka, kennari, Mannauðsstjórnun, framhaldsskóli
+
+![Stuðningur í starfi](patontheback.jpg)
+
+Ég hef starfað sem framhalds&shy;skóla&shy;kennari í rúm fjögur ár. Þegar ég lít til baka þá finnst mér að móttaka og þjálfun mín hafi verið ómark&shy;viss og til&shy;viljana&shy;kennd. Ekki virtist vera til nein stefna á vinnu&shy;staðnum varðandi þjálfun nýrra kennara og ekki var gætt að vinnu&shy;álagi. Sem dæmi má nefna var mér úthlutaður áfangi þar sem hvorki var til náms&shy;áætlun né innihalds&shy;lýsing. Mér var tjáð að ég mætti gera það sem ég vildi. Það er afar spennandi verkefni fyrir reyndan kennara en allt að því ofviða reynslu&shy;lausum kennara. Mér til happs var samkennari minn mjög liðlegur að hjálpa og var ætíð boðinn og búinn að aðstoða mig, styðja og leiðbeina. Þessi samkennari var ekki fagstjóri og hafði í raun engum skyldum að gegna gagnvart mér. Eftir um tvö ár í starfi leit ég til baka og sá að margt hefði mátt betur fara. Út frá þessari reynslu vaknaði áhugi á því að skoða hvernig móttöku og þjálfun nýrra kennara er almennt háttað hjá framhalds&shy;skólum og jafn&shy;framt hvort hægt sé að benda á leiðir til úrbóta. Að auki nam ég mannauðs&shy;stjórnun við HÍ og rannsókn á þessu sviði hentaði því vel sem loka&shy;verkefni.
+
+Þegar ég fór að skoða fyrri rannsóknir komst ég að því að engar rannsóknir höfðu verið gerðar á Íslandi um móttöku og þjálfun nýrra framhalds&shy;skóla&shy;kennara. Ein&shy;hverjar rannsóknir hafa þó verið gerðar meðal grunn&shy;skóla&shy;kennara. Ljóst var að rannsóknir á móttöku og þjálfun fram&shy;halds&shy;skóla&shy;kennara eru óplægður akur á Íslandi og það styrkti enn frekar ákvörðun mína um val á efnistökum. Ég ákvað því að skoða móttöku og þjálfun fram&shy;halds&shy;skóla&shy;kennara út frá sjónarhóli mann&shy;auðs&shy;fræða. Mann&shy;auðs&shy;stjórnun er fræði&shy;grein sem fjallar um stjórnun mannauðs allt frá öflun umsækjenda og að starfs&shy;lokum með það að markmiði að fá eins mikið út úr starfs&shy;fólki og hægt er. Í þessu felst meðal annars starfs&shy;greining, ráðningar&shy;ferli, _móttaka_ nýrra starfsmanna, _þjálfun_ þeirra, mat á frammi&shy;stöðu og í kjölfarið hvatning, umbun og starfsþróun.
+
+Lykilhugtök rannsóknarinnar voru _móttaka_, _þjálfun_ og _stuðningur_. _Móttaka_ nýrra kennara er skilgreind sem ferlið sem fer fram frá því að kennari er ráðinn og þar til hann hefur kennslu. Í sumum tilvikum hefst móttaka strax í ráðningar&shy;ferlinu, til dæmis getur verið að viðkomandi fái mikilvægar upplýsingar um stofnunina strax í ráðningar&shy;viðtali. Í framhalds&shy;skólum líða yfirleitt fáir dagar frá því að kennari kemur til starfa uns kennsla hefst en það getur verið misjafnt milli skóla.
+
+_Þjálfun_ er oft skilgreind sem skipulagt ferli, svo sem námskeið, umræðu&shy;hópur eða annað, sem hefur að markmiði að bæta frammistöðu starfsfólks á vinnustað. Þetta er almenn skilgreining og á jafnt við um þjálfun nýrra starfs&shy;manna í tiltekið starf eða endur- og símenntun eldri starfs&shy;manna. Á Íslandi er þjálfun nýrra starfs&shy;manna oft með óskipu&shy;lögðum hætti og í því ljósi var skil&shy;greiningin víkkuð út þannig að þjálfunar&shy;ferli er tímabilið sem kennarinn er að læra að takast á við starf sitt, hvort sem ferlið fari fram með skipu&shy;lögðum eða óskipu&shy;lögðum hætti.
+
+_Stuðningur_ í starfi er afar mikilvægur fyrir nýja kennara og ekki er hægt að tala um móttöku og þjálfun án þess að nefna stuðning. Stuðningur er allt óformlegt sem hjálpar nýjum kennara að takast á við starf sitt. Stuðningur er einkum tvenns konar; stuðningur annars starfsfólks eða ytri stuðningur. Stuðningur annars starfs&shy;fólks er stuðningur vinnufélaga við kennarann sem persónu. Þetta getur verið uppörvandi spjall á göngum skólans eða kaffistofunni eða klapp á bakið í ljós&shy;ritunar&shy;herberginu. Með ytri stuðningi er átt við þætti sem lúta að vinnuumhverfi og skipu&shy;lagningu starfsins, svo sem kennslu&shy;skiptingu og áföngum sem kennaranum eru úthlutaðir.
+
+Þessir þrír þættir mynda eina órjúfanlega heild og tengsl hugtakanna eru sýnd á _mynd 1_.
+
+![Tengsl lykilhugtaka: móttaka, þjálfun, stuðningur.](mynd1.svg)
+
+Rannsóknin var eigindleg og tóku tveir fram&shy;halds&shy;skólar á höfuð&shy;borgar&shy;svæðinu þátt í henni. Tekin voru viðtöl við skóla&shy;meistara beggja skólanna, einn fag&shy;stjóra í hvorum skóla og tvo eða þrjá kennara með eins til tveggja ára kennslu&shy;feril í framhalds&shy;skólum.
+
+Annars vegar voru móttöku- og þjálfunar&shy;ferli skólanna beggja kortlögð og hins vegar var athugað hvernig nýju kennararnir fimm upplifðu fyrstu annirnar í starfi og hvernig þeir náðu tökum á starfinu. Skoðað var hvaða þættir starfsins reyndust þeim erfiðastir þegar fyrstu kennslu&shy;sporin voru stigin.
+
+Helstu niðurstöður eru þær að móttöku- og þjálfunar&shy;ferlin voru mjög ólík í skólunum tveimur. Annar skólinn notast við gæða&shy;kerfi og flestar aðgerðir eru bundnar í ákveðna verkferla. Í þeim skóla reyndist móttakan markviss og skipulögð. Skýrt kemur fram í verk&shy;ferlum hver ber ábyrgð á hverju stigi móttökunnar. Nýr starfs&shy;maðurinn fær handbók til umráða og þar kemur til að mynda fram hvert hann á að leita ef vandamál kemur upp. Í hinum skólanum er ekki um neitt slíkt ferli að ræða og kemur í ljós að upplýsingaflæði er tilviljana&shy;kennt og oft af skornum skammti. Öllum nýju kennurunum fannst samstarfs&shy;fólk sitt taka vel á móti sér og upplifðu jákvætt og hlýtt viðmót. En þó gott viðmót samstarfs&shy;fólks hjálpi til við aðlögun nýrra starfsmanna þá kemur það ekki í veg fyrir skipulagða móttöku því samstarfs&shy;fólkið ber ekki endilega ábyrgð á því að koma upplýsingum til skila, svo sem upplýsingum um umsjónar&shy;kennslu eða hvernig ljós&shy;ritunar&shy;vélar virka. Augljóst er af samanburði þessara tveggja skóla að vel skipulagt mót&shy;töku&shy;ferli skilar sér í betra upplýsinga&shy;flæði sem kemur nýjum kennurum til góða.
+
+Þjálfunarferli skólanna eru einnig ólík. Skólinn með gæðakerfið hefur skipulagt þjálfunar&shy;ferli sem tekur að mestu leyti til almennra þátta starfsins en lýtur minna að kennslu&shy;fræðilegum stuðningi við nýja kennara. Í hinum skólanum er engin skipulögð þjálfun og hvorki eru til skriflegar leið&shy;beiningar né vegvísir um þjálfun nýrra starfsmanna. Fagstjórar skólanna eiga að hafa yfirumsjón með nýjum kennurum samkvæmt starfs&shy;lýsingu en í ljós kom að slíkt var með afar mismunandi hætti. Svo virðist vera að þeir fagstjórar sem rætt var við séu meðvitaðir um nýja kennara og hlúi að þeim en nýju kennararnir höfðu sumir aðra sögu að segja af sínum fagstjórum. Hafa verður í huga að skólameistararnir bentu á þessa fagstjóra sem viðmælendur og að sögn var það vegna góðra verka þeirra. 
+
+Upplifanir nýju kennaranna fimm voru að mörgu leyti ólíkar en samstaða ríkti um nokkur atriði. Má þar nefna of mikið vinnuálag fyrstu annirnar, of stuttan undir&shy;búnings&shy;tíma áður en kennsla hófst og skort á skipulagðari stuðningi. Flestir viðmælendur rannsóknarinnar voru sammála að besta leiðin til að læra kennara&shy;starfið væri að læra af reynslunni en þó undir styrkri leiðsögn reynds kennara. Einnig mætti auka veg æfinga&shy;kennslu í kennslu&shy;réttinda&shy;námi og bjóða upp á einhvers konar æfinga&shy;kennslu í upphafi starfs.
+
+Af niðurstöðum rannsóknarinnar má draga þær ályktanir að móttöku- og þjálfunar&shy;ferli geta verið allt frá því að vera ómarkviss og tilviljana&shy;kennd og upp í vel skipulögð ferli. Fagtengd þjálfun er í höndum fagstjóra og í hvorugum skóla eru samræmdar aðgerðir milli fagstjóra þannig að fagtengd þjálfun er ólík milli deilda. Einnig má bæta við að í báðum skólum höfðu verið við lýði markvissari þjálfunarferli en bæði höfðu verið lögð niður, annað vegna skipulagsbreytinga og hitt vegna þess að kerfið þótti ekki virka sem skyldi.
+
+Út frá rann&shy;sókninni og persónulegri reynslu minni, má ætla að ekki sé gefinn nógu mikill gaumur að þjálfun og stuðningi við nýja kennara.Þetta er atriði sem skóla&shy;stjórnendur og fag&shy;stjórar ættu að skoða því horfur eru á kennara&shy;skorti innan fárra ára. Meðalaldur fram&shy;halds&shy;skóla&shy;kennara er um og yfir fimmtugt og margir kennarar fara á eftirlaun innan tíu ára. Því er afar brýnt að gera starf fram&shy;halds&shy;skóla&shy;kennara aðlaðandi og eftirsóknarvert í huga þeirra sem yngri eru. Baráttan um vel menntað og hæft starfsfólk er mikil og þar sem grunnmenntun fram&shy;halds&shy;skóla&shy;kennara er hefðbundin háskóla&shy;menntun, þá eru þeir eftirsóttir í sérfræðistörf utan menntageirans. En ekki er nægilegt að lokka nýtt fólk til starfa heldur er ekki síður mikilvægt að halda kennurum í starfi.Þar spila móttaka og þjálfun stórt hlutverk.
+
+---
+
+#### Heimildir
+
+* Beardwell, I., Holden, L. og Clayton, T. (2004). _Human resource management. A contemporary approach_ (4. útgáfa). England: Pearson Education Limited.
+* Blanchard, P. N. og Thacker, J. W. (2007). _Effective Training. Systems, strategies, and practices._ 3. útg. New Jersey: Pearson Prentice Hall.
+* Soffía Sveinsdóttir. (2008). _Í upphafi skyldi endinn skoða. Móttaka og þjálfun nýrra fram&shy;halds&shy;skóla&shy;kennara_. MA ritgerð í mannauðsstjórnun: Háskóli Íslands, Viðskipta- og hagfræðideild.
+
+

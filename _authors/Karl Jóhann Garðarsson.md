@@ -1,0 +1,1 @@
+Karl Jóhann er með BA-próf í sagnfræði (með trúarbragðafræði sem aukagrein) frá Háskóla Íslands. Hann er með MA-próf í hugmyndasögu frá University of Sussex í Englandi. Karl Jóhann starfar sem sögukennari við Menntaskólann við Hamrahlíð og situr í stjórn Sagnfræðingafélags Íslands.

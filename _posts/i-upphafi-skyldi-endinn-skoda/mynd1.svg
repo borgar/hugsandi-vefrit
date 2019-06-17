@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 70" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="28" fill="none" stroke="black" />
+  <circle cx="70" cy="30" r="28" fill="none" stroke="black" />
+
+  <g
+    font-size="6"
+    text-anchor="middle"
+    font-weight="bold">
+    <text x="24" y="30">Móttaka</text>
+    <text x="77" y="25">Þjálfun</text>
+    <text x="77" y="38">Stuðningur</text>
+  </g>
+
+  <text
+    font-size="6"
+    text-anchor="middle"
+    x="50"
+    y="68"
+    >
+    <tspan font-weight="bold">
+      Mynd 1.
+    </tspan>
+    Tengsl lykilhugtaka
+  </text>
+</svg>

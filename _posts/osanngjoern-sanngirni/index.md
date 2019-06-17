@@ -1,0 +1,39 @@
+Title: Ósanngjörn sanngirni
+Slug: osanngjoern-sanngirni
+Date: 2005-11-17 00:13:00
+UID: 15
+Lang: is
+Author: Ágúst Flygenring
+Author URL: 
+Category: Póstur að utan, Neyslusamfélagið
+Tags: Fair trade, stúdentapólitík, stórfyrirtæki, her, Oxfam, Christian Aid, Fair Trade Foundation, kaffi, te, Starbucks, Bretland
+
+![Kaffibolli](26.jpg)
+
+Ég er einn af þeim sem hef aldrei almennilega skilið út á hvað „stúdentapólitíkin“ í HÍ gengur. Kannski er það vegna þess að ég fór sjálfur í HR og var þar blessunarlega laus við að fá átján símhringingar sömu 2-3 dagana frá misókunnugu mjúkmála fólki sem allt í einu hafði mestan áhuga á að nýta óbein kynni þeirra af manni til að sannfæra mann um aðili R eða V hafi margfalt meira fram að færa fyrir hagsmuni stúdenta. Margir af stjórnmálamönnum þjóðarinnar hafa skólast í pólitískum fræðum innan fylkinganna (og jafnvel álitið það ígildi BA-prófs í stjórnmálafræði samkvæmt óáræðanlegum fréttum). Það hefur þó sjaldan verið vandamál í seinni tíð að hugmyndafræðilegur ágreiningur utan háskólalóðarinnar meðal stúdenta komi niður á háskólasamfélaginu. Ungt fólk er flest löngu hætt að berjast fyrir alheimsbyltingu og fartölvulán og hækkandi bensínverð er orðinn helsti höfuðverkur þess.
+
+Það var því töluvert sjokk að koma til náms hérna í Bretlandi. Ekki aðeins vegna þess að campusinn er fullur af fólki sem á Íslandi kallast menntskælingar heldur vegna þess að meðal „samþykkta“ stúdentaráðsins er að banna nokkur fyrirtæki innan háskólasvæðisins. Sum þeirra koma svosem lítið á óvart, Esso/ExxonMobile fyrir að valda umhverfisspjöllum og „eyðileggja samfélag þar sem það starfar“ og McDonald’s er bannað, að því er virðist aðallega fyrir að vera „stórir“. Það fyrirtæki sem kemur líklegast mest á óvart að sé á listanum er PriceWaterhouseCoopers (PwC). Svolítið skondið raunar, í ljósi þess að samkvæmt árlegri úttekt The Times er það fyrirtæki sem flestir útskrifaðir stúdentar vilja starfa hjá PwC!
+
+Herinn er líka bannaður innan húsnæðis stúdentafélagsins en hefur a.m.k. tvívegis sem af er skólaárinu komist hjá þessari reglu með að dreifa bæklingum á gangstéttinni hinum megin við götuna (eftir að hafa verið raunar reknir yfir götuna af stúdentum, sem fengu yfir sig viðbúin blótsyrði frá hermönnum hennar hátignar). Breski herinn hefur sérhæft sig í því að drepa fólk umhverfis heiminn í aldaraðir, þannig maður skyldi halda að þegar efnt var til fundar um málið myndu margir mæta. Það mættu 70 til 80 stúdentar. Hópur íhaldssamra stúdenta fjölmennti og náði að fella tillögu um að skora á rektor að heimila ekki hernum að kynna „starfsemi“ sína innan háskólasvæðisins.
+
+Það er í sjálfu sér ágætis pólitískt _statement_ að banna bólugröfnum hermönnum að dreifa bæklingum. Sér í lagi ef slíkt er gert í krafti lýðræðisins. Verst að lýðræðið brást friðarsinnum sem töldu málstaðinn vera sín megin. Ef hinn þögli mikli meirihluti heldur sig til hlés getur minnihlutinn farið að stjórna í krafti sinnuleysis minnihlutans.
+
+Og það er nákvæmlega það sem hefur gert mér lífið leitt síðustu vikurnar. Fyrir síðasta vetur samþykkti stúdentaráðið að á kaffistofum stúdenta skyldi einungis vera selt _Fair Trade_ kaffi.
+
+Fair Trade Foundation eru samtök sem sett voru upp af Oxfam, Christian Aid og fleiri aðilum. Tilgangurinn er að votta vörur sem gefa framleiðendum í þróunarríkjum vænni skerf af verðinu. Þekkt merki hafa tekið Fair Trade opnum örmum og séð markhóp fyrir slíkar vörur, Sainsbury’s, Tesco og Marks & Spencer selja allar mismikið úrval af vörum vottuðum af Fair Trade og kaffihús Costa, Starbucks og Pret A Manger bjóða öll upp á Fair Trade kaffi — kjósi fólk það. Rétt einsog fólk getur fengið _decaf_ ef það vill forðast koffein.
+
+Þannig ætti það líka að vera. Í stúdentafélaginu mínu er fólk hinsvegar viss í sinni sök. Fair Trade er rétt og skal þess vegna eitt vera leyft í kaffistofunum, þegar því verður komið við. Kaffi, te, sykur, kakó, allt skal þetta vera Fair Trade. Alltaf. Alls staðar. Merkilegt samt að þar sem Fair Trade vottar engin „speciality“ te þá er enn hægt að fá ýmiskonar Twinings te, m.a. Earl Grey! Þó svo Twinings sé „ósanngjarnt“ en ekki _Fair Trade_ virðast nær allt tedrykkjufólk velja það frekar en vottuðu, óskilgreindu tepokana sem eiga að tryggja tebændum heimsins betri kjör. Og það þrátt fyrir að slíkt muni kosti 10-20 kr. meira fyrir bollann en teið sem Stúdentafélagið vill sjá alla drekka.
+
+Þrýstingur var settur á skólayfirvöld að taka upp sömu stefnu á þeim kaffistofum og veitingasölum sem háskólinn rekur. Hvort það var vegna hertari reglna eða ekki, þá hvarf Starbucks, sem rak kaffihús í stærstu lesaðstöðu stúdenta, þrátt fyrir að bjóða upp á takmarkað úrval af Fair Trade kaffi, líkt og á öðru Starbucks kaffihúsum síðan 2002.
+
+Það sjást því ekki lengur lesþreyttir stúdentar drekkandi frappoccino eða latte, barmandi sér yfir því hvað Starbucks sé _commercial_ og óekta og hvernig það sé að eyðileggja alla kaffimenningu í heiminum. Í stað amerísku keðjunnar tók pólitískt rétthugsandi kaffihús yfir reksturinn og selur nú þunnt espresso, dísætt cappuccino og bragðlausan americano ásamt samlokum sem fá mann til að sakna Sóma að heiman.
+
+Ef Starbucks eyðileggur kaffimenningu umhverfis heiminn þá má segja að áhrif brotthvarfs fyrirtækisins jók söluna á kaffibrúsum og kaffivélum í nágrenninu. Sjálfur fór ég þá leið að fjárfesta í ítalski Saeco vél í póstkröfu — eftir að hafa gefist upp á að verða fyrir vonbrigðum í hvert sinn með _sanngjarna_ espressoið og hugsað með skelfingu til þess að drekka „kaffi“ úr sjálfsala í hverjum frímínútum. Í kaupfélaginu fann ég svo ágætis hitabrúsa á góðu verði.
+
+---
+
+Ég hef alls ekkert á móti [Fair Trade](https://en.wikipedia.org/wiki/Fair_trade) og kaupi slíkar vörur þegar því verður við komið. Fólk verður hinsvegar að velja slíkt á eigin forsendum. Ef Fair Trade á að skila sínum árangri, að bæta kjör bænda í þróunarlöndum, verður að vekja fólk til umhugsunar. Það þarf að „selja“ hugmyndina. Og það er einmitt það sem Fair Trade hefur gert vel. Með sama hætti lífrænt ræktaðum vörum hefur vaxið ásmegin, a.m.k. í Bretlandi, hefur Fair Trade náð árangri: með umtali og markaðssetningu. Líkt og með allar ímyndir þarf Fair Trade að markaðssetja sig sem „betri“ vöru, jafnvel þó betra í þessu tilfelli þýði betra fyrir bændurna.
+
+Væri fólk spurt að því í hvert skipti sem það pantaði sér kaffidrykki hvort það vildi að kaffið væri Fair Trade eða ekki myndi sjálfsagt langflestir biðja um Fair Trade. Það vill enginn sjálfhverfur, rétthugsandi háskólanemi svíkja bændur í Costa Rica eða Java í hvert skipti sem lesþreytan kallar á kaffibolla. Þvert á móti, er það einmitt svona lagað sem fær okkur til að finnast við _gera eitthvað_. Hvort sem það er að bjarga fátækum bónda í hvert skipti sem við förum í kaffi eða stöðva ofbeldi gegn börnum með að kaupa plastteygju og bera um úlnliðinn.
+
+Kverúlantinn ég og allir suður-evrópsku stúdentarnir sem núna öfunda mig af kaffibrúsanum mínum þegar hann stendur á borðinu mínu á bókasafninu myndum hinsvegar láta kjör bóndans fara lönd og leið án þess að blikka auga. Og velja bragð umfram pólitík.

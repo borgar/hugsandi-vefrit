@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}{{ post.title }}{% endblock %}
+{% block bodyclass %}single{% endblock %}
+
+{% block extrahead %}
+<meta name="title" content="{{ post.title }} – {{ SITE_TITLE }}">
+<meta property="og:title" content="{{ post.title }} – {{ SITE_TITLE }}">
+<meta property="twitter:title" content="{{ post.title }}">
+<meta name="description" content="{{ post.summary | striptags }}">
+<meta property="og:description" content="{{ post.summary | striptags }}">
+<meta name="twitter:description" content="{{ post.summary | striptags }}">
+<meta name="author" content="{{ post.authors| join(", ") }}">
+<meta property="article:author" content="{{ post.authors| join(", ") }}">
+
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ post.isodate }}">
+<meta property="og:image" content="{{ post.cover_image }}">
+{% endblock %}
+
+{% block content %}
+
+{% import "macros.html" as make %}
+{{ make.display( post, true ) }}
+
+{% endblock %}

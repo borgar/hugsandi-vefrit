@@ -1,0 +1,38 @@
+Title: Ein skapandi borg?
+Slug: ein-skapandi-borg
+Date: 2006-01-10 00:02:00
+UID: 34
+Lang: is
+Author: Viðar Hreinsson
+Author URL: 
+Category: Hagfræði, Borgarfræði
+Tags: 
+
+![Creative class - bókarkápan](59.jpg)
+
+Richard Florida heitir bandarískur prófessor í borgarfræðum, doktor frá Carnegie Mellon háskóla í Pittsburgh. Hann kenndi þar um hríð en er nú við George Mason háskóla í Fairfax. Hann boðar nýjar hugmyndir um þátt hinnar skapandi stéttar í efnahagslegum uppgangi. Höfuðrit hans í þeim efnum, _The Rise of the Creative Class_, kom út árið 2002 og varð metsölubók.
+
+Meginhugmynd Florida er að „hin skapandi stétt“ sé orðin mikilvægasta hreyfiafl efnahagslífsins og efnahagsleg velgengni svæða sé undir sköpunarmættinum kominn. Hann ræðir um starfsstéttir frekar en stéttir út frá eignarhaldi á framleiðslutækjum í marxískum skilningi. Aðrar stéttir eru verkamenn og landbúnaðarstéttir, sem hefur fækkað hlutfallslega undanfarna áratugi, og þjónustustéttir sem hefur fjölgað mjög þótt hægt hafi á þeirri fjölgun síðustu árin. 
+
+Hin skapandi stétt er sú sem myndar efnahagsleg verðmæti með frjóu starfi. Kjarni hennar er vísindamenn og verkfræðingar, háskólakennarar, skáld og rithöfundar, listamenn, skemmtikraftar, leikarar, hönnuðir og arkitektar, hugmyndasmiðir samfélagsins, t.d. fræðiritahöfundar, ritstjórar og aðrir sem teljast skoðanamótandi. Í víðari skilningi teljast til stéttarinnar kennarar, læknar og hjúkrunarfólk, lögfræðingar, stjórnendur í viðskiptalífi o.fl. Mjög hefur fjölgað í báðum hópum síðustu árin og segir Florida að til hinnar skapandi stéttar teljist nú 38 milljónir Bandaríkjamanna.  
+
+Eitt helsta einkenni þeirra breytinga sem hafa orðið samfara uppgangi hinnar skapandi stéttar er tilhneiging til að rjúfa skorður alls sem mótað er fyrirfram. Helstu gildi stéttarinnar eru einstaklingshyggja, metnaður eða árangursmiðun, fjölbreytni og opið hugarfar, en því er heldur ekki að neita að þessar breytingar auka launamun. 
+
+Florida greinir djúpstæðar breytingar á ýmsum samfélagseinkennum síðustu áratugi í átt að hreyfanleika, sveigjanleika og sköpun. Um miðja öldina unnu menn alla starfsævina hjá sama fyrirtæki sem þeir samsömuðu sig með, lífshættir voru í föstum skorðum og bóhemar voru grunsamlegt fólk. Þessi einkenni hafa vikið fyrir hreyfanlegri vinnumarkaði, sveigjanlegri vinnustöðum, aðlögunarhæfni og áherslu á sköpunarkraft, frumkvæði og þekkingu og einstaklingsbundnum starfssamningum. Fyrirtækin hafa uppgötvað að bóheminn er hugmyndaríkur og snjall. Klæðnaður manna í vinnunni er óformlegur, og sjálfsmyndin ekki lengur bundin vinnustaðnum. 
+
+Samhliða þessari þróun hefur vægi stórfyrirtækja minnkað, þungaiðnaður er á undanhaldi og á leið úr landi, fólk hafnar gamalli einhæfni og flytur þangað sem það langar til að búa. Þar sem hinu skapandi fólki fjölgar er hugmyndaauðgin hreyfiafl og atvinnutækifærin spretta upp úr jarðveginum. Nýjum lífsháttum fylgja nýjar kröfur, ferðamenn hins nýja tíma vilja t.d. ekki pakkaferðir heldur einstæðar upplifanir. 
+
+Florida segir uppgang mestan á svæðum þar sem saman fara þrjú T: _technology, talent og tolerance_ (tækni, hæfileikar og umburðarlyndi), mælanlegir þættir sem nota má til að reikna út sköpunargetu svæða. Hæfileikar og tækni knýja nýsköpun en Florida mælir umburðarlyndi með hommahlutfalli. Fjöldi og sýnileiki samkynhneigðra bendir til þess að nægilegt umburðarlyndi ríki til að þeir sem hugsa öðruvísi fái að njóta hæfileika sinna og sköpunargáfu. Skapandi auðlegð kemur í stað félagslegrar auðlegðar sem samfélagslegt hreyfiafl. Litskrúðugt menningarlíf, frumleg tónlistarsena og fjölbreyttir útivistarmöguleikar eiga mestan þátt í að gera borgir eða svæði aðlaðandi, frekar en risamannvirki á borð við íþróttaleikvanga og tónleikahús. 
+
+Austin, Seattle og San Francisco eru efstar á lista hinna skapandi svæða. Silicon Valley er einsleitt svæði, en hluti af San Franciscosvæðinu þar sem fjölbreytnin ríkir. Hátæknimiðstöðvar eru mikilvægustu vaxtarsvæðin en það er hið skapandi umhverfi sem nærir þau meðan stórar iðnaðarborgir, t.d. Pittsburgh, sem stendur nærri hjarta Florida sjálfs, tapa fólki og staðna. 
+
+Hugmyndir Florida birta skýra drætti sem kveikja hugleiðingar um framtíð íslensks samfélags. Hann dregur upp allt aðra samfélags- og framtíðarmynd en íslensk stjórnvöld sem eru í óða önn að byggja upp þungaiðnað með ódýru, lítt skapandi vinnuafli. Hann ryður hátæknifyrirtækjum úr landi, spillir fyrir sjávarútvegi og kæfir nýsköpunarmöguleika. Hagfræðingar hafa bent á að stóriðja hafi staðbundin áhrif og sé gagnslaus við að halda landinu í byggð. Milljarðar fara í undirbúning gamaldags virkjana og stóriðju en aðeins milljónir í þá uppbyggingu þekkingarsamfélags sem líklegust er til að skapa bjarta framtíð. 
+
+Svo virðist sem mest sköpun sé á stórborgarsvæðum þó ekki sé það algild regla. Stórreykjavíkursvæðið er hálfgert þorp miðað við milljónaborgirnar sem Florida er tíðrætt um. Engu að síður væri full ástæða fyrir Íslendinga að draga lærdóma af hugmyndum Florida og leggja meiri rækt við hátækni og hæfileika, umburðarlyndi og sveigjanlega fjölbreytni, bæta skilyrði hinna skapandi stétta og setja meira og varanlegra fé í nýsköpun. 
+
+Það mætti líka ganga skrefi lengra og endurmeta ýmis einkenni íslensks samfélags, hreinlega leggja niður gjána milli suðvesturhornsins og landsbyggðarinnar, eða þéttbýlis og dreifbýlis, líta á landið sem eitt borgarsvæði og rækta sköpunarmátt þess í heild. Íbúar eru hvort sem er ekki fleiri en í einu hverfi í stórborg. Það er brýnt að landið skreppi rækilega saman með bættum samgöngum og boðskiptum. Rétt væri að stórefla almenningssamgöngur og jafnvel hafa þær ókeypis til að auka samskipti manna og samstarf um land allt. Góðar háhraðanettengingar geta stutt atvinnuuppbyggingu víða á landsbyggðinni, þær laða að hina skapandi stétt. 
+
+Æ fleiri sækjast eftir búsetu og hæggengari lífsháttum úti á landi, vilja losna undan hraða, streitu og almennum hávaða en eiga þó kannski erfitt með að sleppa hendi af menningarauðlegð höfuðborgarsvæðisins. Menning gamla bændasamfélagsins er að mestu liðin undir lok. Hún er samt allsstaðar nálæg og sá andblær sem eftir lifir hefur aðdráttarafl sem styrkist með enn meiri rækt við fortíðina. Saga og menningarminjar eru í þann veginn að ganga í endurnýjun lífdaga víða um land, oft í nánu sambandi við náttúruna, sem viðfangsefni rannsókna og menningarferðamennsku. Það þarf að breyta landinu í eina lifandi menningarheild, þar sem fyrir utan höfuðborgarsvæðið séu nokkrir allstórir og stöndugir þéttbýliskjarnar, margir minni og góðar samgöngur um hinar dreifðu byggðir. Með því móti væri kannski hægt að skapa ákjósanleg skilyrði til að hin skapandi stétt dreifist víða um landið. 
+
+Reykjavíkurborg leggur nú til lóðir til háskóla og vísindastofnana í Vatnsmýrinni því þar á að byggja þekkingarþorp. Hug- og félagsvísindi eru nauðsynlegur dráttur í heildarmynd þekkingarþorpsins, til að átta sig á menningarstraumum samtímans og þeirri fortíð sem hefur mótað nútímann. Hugmyndaleg uppbygging þekkingarþorpsins er með alþjóðlegu sniði en hún verður líka að gera ráð fyrir að þjóna landinu í heild, til dæmis þeim vísinda- og menntastofnunum sem spretta upp víða á landsbyggðinni en oft af vanefnum. Framtíð íslensks samfélags verður að byggja á lifandi samþættingu menningar, náttúru og vistvænnar tækni, um land allt. Sagan, menningin og náttúran eru drættir sem laða að æ fleiri erlenda ferðamenn. En þessir þættir mynda einnig frumnæringu eða kjarna hins fjölbreytta og skapandi samfélags sem Richard Florida lýsir og ætti að ná um landið allt. Ísland á að verða hátæknisamfélag, en sköpunarkraftur hátækninnar er dreginn úr frumnæringunni. 
+

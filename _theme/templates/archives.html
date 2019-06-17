@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}Ritsafn{% endblock %}
+{% block bodyclass %}list{% endblock %}
+
+{% block content %}
+{% import "macros.html" as make %}
+{% if archives.items.length %}
+  <div class="post-list archive-page">
+  <h1>Ritsafn</h1>
+  {{ make.list(archives.items) }}
+  </div>
+{% else %}
+  <h1>Ritsafn</h1>
+  <p>Ekkert hefur enn verið birt.</p>
+{% endif %}
+{% endblock %}

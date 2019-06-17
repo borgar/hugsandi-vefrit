@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}{{ author }}{% endblock %}
+{% block bodyclass %}list{% endblock %}
+
+{% block content %}
+{% import "macros.html" as make %}
+
+<article class="author-info">
+<h1>{{ author }}</h1>
+{{ author.content | safe }}
+</article>
+
+{% if author.items.length %}
+<div class="post-list">
+{{ make.list(author.items) }}
+</div>
+{% endif %}
+
+{% endblock %}

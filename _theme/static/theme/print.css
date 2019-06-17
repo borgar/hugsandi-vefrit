@@ -1,0 +1,160 @@
+/*
+
+Print style from Femur by Borgar Thorsteinsson
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 2.5 License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/ 
+or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, 
+California, 94105, USA.
+
+*/
+
+/* --- hidden stuff --- */
+
+.print  { }
+.stream { display : none; }
+.visual { display : none; }
+
+
+/* body */
+body {
+  background-color: white; 
+  color: black;
+  font-family : Palatino, Georgia, serif;
+  line-height : 1.35;
+}
+
+
+/* header */
+
+.pageheader .titles {
+  border-bottom : 1pt solid #000;
+  padding : 0;
+}
+.titles .subtitle { display : none; }
+
+/* other canvas sections */
+
+.pagebody {}
+.pageextra1 { display : none; }
+.pageextra2 { display : none; }
+.pageextra3 { display : none; }
+.pageextra4 { display : none; }
+.pageextra5 { display : none; }
+
+.commentform { display : none; }
+
+
+/* block level elements */
+
+h1, h2, h3, h4, h5, h6 {
+  font-size : 1.2em;
+  margin-top : 0;
+}
+
+p, td, caption {
+  font-size : 1em;
+}
+p {
+  margin-top : 0;
+  margin-bottom : .4em;
+}
+.entry .body p + p {
+  text-indent : 1.5em;
+}
+
+/* inline elements */
+
+em, i {
+  font-style : italic;
+}
+
+a {
+  color : #000;
+  text-decoration : none;
+}
+
+kbd, tt, pre, code {
+  font-family : "andale mono", "lucida console", monospace;
+  color : #777;
+}
+
+q, cite {
+  font-style : italic;
+  font-family : serif;
+}
+
+img.right { float : right; }
+img.left { float : left; }
+img.center {}
+
+label { 
+  display : block;
+}
+
+
+/* tables */
+table {
+  border : 1px solid #888;
+  empty-cells : show;
+  border : collapse;
+}
+caption { text-align : left; }
+th, td {
+  text-align : left;
+  vertical-align : top;
+  page-break-inside : avoid;
+  border : 1px solid #888;
+}
+
+/* theme centric */
+
+.metadate,
+.navigation,
+.editlink { display : none; }
+
+
+.post-meta {
+  border : 1pt dotted #888;
+  padding : .4em;
+  color : #888;
+  margin-top : 1em;
+}
+.post-meta a {
+  color : #888;
+}
+
+.meta .intro,
+.meta .time,
+.meta .author,
+.meta .cat,
+.meta .print {
+  display : inline;
+  padding-right : .3em;
+}
+
+.meta .cat,
+.meta .comments {
+  display : none;
+}
+
+.home .entry {
+  margin-bottom : 2em;
+}
+
+/* extra goodies */
+
+acronym {
+  border: 0;
+}
+acronym:after {
+  content: " (" attr(title) ")";
+}
+/*
+.entry .body p a[href]:after  {
+  content : " [" attr(href) "]";
+}
+.entry .body p a[title]:after {
+  content : " [" attr(href) " - " attr(href) "]"; 
+}
+*/

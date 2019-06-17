@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}{{ category }}{% endblock %}
+{% block bodyclass %}list{% endblock %}
+
+{% block content %}
+{% import "macros.html" as make %}
+
+<article class="category-info">
+<h1>{{ category }}</h1>
+{{ category.content | safe }}
+</article>
+
+{% if category.items.length %}
+<div class="post-list">
+{{ make.list(category.items) }}
+</div>
+{% else%}
+<p>Engar greinar fundust.</p>
+{% endif %}
+
+{% endblock %}

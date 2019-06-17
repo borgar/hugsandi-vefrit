@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}{{ SITE_TITLE }}{% endblock %}
+{% block bodyclass %}home list{% endblock %}
+
+{% block content %}
+{% import "macros.html" as make %}
+
+{% for post in index.items %}
+<div class="post" id="dated-{{ post.year }}-{{ post.month }}-{{ post.day }}">
+
+  <a tabindex="-1" href="{{ post.url }}" class="cover"><img src="{{ post.cover_image }}" /></a>
+
+  <h3 class="heading"><a href="{{ post.url }}">
+    <span class="primary"><span class="t">{{ post.title }}</span></span>
+    <i class="aux">–</i>
+    {% if post.partCount > 1 or post.subtitle %}
+    <span class="secondary"><span class="t">
+      {% if post.subtitle %}
+        {{ make.part(post, ':') }}
+        <span class="subtitle">{{ post.subtitle | safe }}</span>
+      {% else %}
+        {{ make.part(post) }}
+      {% endif %}
+    </span></span>
+    {% endif %}
+  </a></h3>
+
+  <p class="summary"><a tabindex="-1" href="{{ post.url }}">{{ post.summary | striptags }}</a></p>
+
+  <div class="meta">
+    <span class="date">{{ post.locale_date }}</span>
+    <i class="">·</i>
+    {{ make.authorstext(post) }}
+  </div>
+
+</div>
+<hr />
+{% endfor %}
+
+{% if index.items.length == 0 %}
+<p>No posts were found</p>
+{% endif %}
+
+{% endblock %}

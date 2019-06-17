@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}"> 
+<head>
+  <title>{% block pagetitle %}{% endblock %} – {{ SITE_TITLE }}</title>
+  <meta charset=UTF-8>
+
+  <link rel="start" href="{{ index.url }}" title="{{ SITE_TITLE }}"> 
+  <link rel="index" href="{{ index.url }}" title='{{ SITE_TITLE }}'>
+  <link rel="stylesheet" href="{{ MEDIA_URL }}/style.css">
+  <link rel="alternate feed" type="application/rss+xml"  href="/feed/">
+  <link rel="alternate feed" type="application/atom+xml" href="/feed/atom/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="referrer" content="always">
+  <meta name="robots" content="index, follow">
+  <meta property="og:site_name" content="{{ SITE_TITLE }}">
+  {% block extrahead %}
+  <meta name="title" content="{{ SITE_TITLE }}">
+  <meta property="og:title" content="{{ SITE_TITLE }}">
+  {% endblock %}
+
+</head>
+
+<body class="{% block bodyclass %}{% endblock %}">
+<div id="top">
+
+<header>
+<h1><a href="{{ index.url }}" rel="home">{{ SITE_TITLE }}</a></h1>
+<small class="aux">&mdash; Beint í <a href="#pages">leiðarkerfi</a></small>
+<hr class="aux"> 
+</header> 
+
+<section id="main">
+{% block content %}{% endblock %}
+<hr class="aux">
+</section>
+
+
+<footer>
+
+<nav id="pages">
+<h1>Aðrar síður á {{ SITE_TITLE }}</h1>
+<ul>
+{% if archives.is_current %}
+<li class="current"><a href="{{ archives.url }}">Ritsafn</a></li>{% else %}
+<li><a href="{{ archives.url }}">Ritsafn</a></li>{% endif %}
+
+{% for p in pages %}{% if not p.is_hidden %}
+{% if p.is_current %}
+<li class="current"><a href="{{ p.url }}">{{ p.title }}</a></li>{% else %}
+<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %}
+{% endif %}{% endfor %}
+</ul>
+<hr class="aux">
+</nav>
+
+<div class="info">
+ISSN: <a href="//www.issn.org/">1670-6668</a>.
+</div>
+
+</footer>
+
+</div>
+
+</body> 
+</html>

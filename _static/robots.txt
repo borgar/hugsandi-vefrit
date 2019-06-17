@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-Delay: 10
+
+Disallow: /files/
+Disallow: /temp/
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+

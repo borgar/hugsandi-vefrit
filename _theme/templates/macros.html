@@ -1,0 +1,165 @@
+{% macro list(posts) %}
+{% set year = -1 %}
+{% set month = -1 %}
+{% for post in posts %}
+{% if year != post.year %}
+{% if year != -1 %}</ul>{% endif %}
+<h2 id="dated-{{ post.year }}">{{ post.year }}</h2>
+<ul>
+{% endif %}
+  <li id="dated-{{ post.year }}-{{ post.month }}-{{ post.day }}">
+    <div>
+      <div class="meta">
+        <span class="date">{{ post.locale_date }}</span>
+        <i class="aux">–</i>
+        {{ authors(post) }}
+      </div>
+      <h3 class="heading"><a href="{{ post.url }}">
+        <span class="primary"><span class="t">{{ post.title }}</span></span>
+        <i class="aux">–</i>
+        {% if post.partCount > 1 or post.subtitle %}
+        <span class="secondary"><span class="t">
+          {% if post.subtitle %}
+            {{ part(post, ':') }}
+            <span class="subtitle">{{ post.subtitle | safe }}</span>
+          {% else %}
+            {{ part(post) }}
+          {% endif %}
+        </span></span>
+        {% endif %}
+      </a></h3>
+    </div>
+  </li>
+{% set year = post.year %}{% set month = post.month %}
+{% if loop.last %}</ul>{% endif %}
+{% endfor %}
+{% if posts.length == 0 %}
+<p>No posts were found</p>
+{% endif %}
+{% endmacro %}
+
+
+
+{% set hluti = ["Núllti","Fyrsti","Annar","Þriðji","Fjórði","Fimmti","Sjötti"] %}
+{% set hlutar = ["engum","einum","tveimur","þremur","fjórum","fimm","sex"] %}
+{% macro part(post, postfix='', prefix='') %}
+{% if post.parts %}
+<span class="part">
+{{ prefix }}{{ hluti[post.part]|d('Fyrsti') }}
+hluti af
+{{ hlutar[post.partCount] }}{{ postfix }}
+</span>
+{% endif %}
+{% endmacro %}
+
+
+
+{% macro listitem(post) %}
+  <li id="dated-{{ post.year }}-{{ post.month }}-{{ post.day }}">
+    <em>{{ post.locale_date }}</em>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  </li>
+{% endmacro %}
+
+
+
+{% macro authors(post) %}
+<span class="authors">
+  {% for author in post.authors %}
+  <a href="{{ author.url }}" class="author">{{ author }}</a>
+  {% if not loop.last %}<span class="amp">&</span>{% endif %}
+  {% endfor %}
+</span>
+{% endmacro %}
+
+{% macro authorstext(post) %}
+<span class="authors">
+  {% for author in post.authors %}
+  <span class="author">{{ author }}</span>
+  {% if not loop.last %}<span class="amp">&</span>{% endif %}
+  {% endfor %}
+</span>
+{% endmacro %}
+
+
+
+{% macro display(post, nometa) %}
+<article id="{{ post.slug }}" lang="{{ post.lang }}">
+
+  <h1><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+
+  {% if post.subtitle or post.partCount %}
+  <h2 class="subtitle">
+    {% if post.subtitle %}
+      {{ part(post, ' –') }}
+      {{ post.subtitle | safe }}
+    {% else %}
+      {{ part(post) }}
+    {% endif %}
+  </h2>
+  {% endif %}
+
+  <p class="meta">
+    {{ authors(post) }}
+    <i class="aux">–</i>
+    <time class="date" title="Birting" datetime="{{ post.year }}-{{ post.month }}-{{ post.day }}">{{ post.locale_date }}</time>
+  </p>
+
+  {{ post.content | safe }}
+
+  {% if post.footnotes and post.footnotes.length %}
+  <div class="footnotes">
+  <hr>
+  <h4 id="tilvisanir">Tilvísanir</h4>
+  <ol start="{{ post.footnotes[0].id }}">
+  {% for fn in post.footnotes %}
+    <li id="fn:{{fn.id}}">
+      {{ fn.content | safe }}
+      <a href="#fnref:{{fn.id}}" rev="footnote">↩</a>
+    </li>
+  {% endfor %}
+  </ol>
+  </div>
+  {% endif %}
+
+
+  <section class="meta">
+    {% if post.parts %}
+    <div class="parts">
+      <h4>Greinin er í {{ post.parts.length }} hlutum:</h4>
+      <ol>
+        {%- for pt in post.parts %}
+        <li>
+          <a href="{{ pt.url }}">
+            {% if pt.subtitle %}
+              {{ part(pt, ':') }}
+              <span class="subtitle">{{ pt.subtitle | safe }}</span>
+            {% else %}
+              {{ part(pt) }}
+            {% endif %}
+          </a>
+        </li>
+        {%- endfor -%}
+      </ol>
+    </div>
+    {% endif %}
+
+    {% if post.categories and post.categories.length %}
+    <div class="categories">
+      <h4>Flokkar</h4>
+      <ul>
+        {%- for cat in post.categories %}
+        <li><a rel="cat" href="{{ cat.url }}">{{ cat }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </div>
+    {% endif %}
+
+
+
+  </section>
+
+</article>
+{% endmacro %}
+
+

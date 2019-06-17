@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}Greinar lyklaðar með {{ tag }}{% endblock %}
+{% block bodyclass %}list{% endblock %}
+
+{% block content %}
+{% import "macros.html" as make %}
+<h1>Greinar lyklaðar með <a href="{{ tag.url }}" rel="tag">{{ tag }}</a></h1>
+{% if tag.items.length %}
+<div class="post-list">
+{{ make.list(tag.items) }}
+</div>
+{% else %}
+<p>Engar greinar fundust lyklaðar með <em>{{ tag }}</em>.</p>
+{% endif %}
+
+{% endblock %}

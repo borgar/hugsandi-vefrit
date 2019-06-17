@@ -1,0 +1,16 @@
+{
+  "name": "hugsandi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Veftímaritið Hugsandi",
+  "scripts": {
+    "build": "gannet --settings=settings.conf",
+    "dev": "gannet --settings=settings.conf --server",
+    "test": "gannet --settings=settings.conf --verbose --server",
+    "clean": "rm -r site"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gannet": "~2.0.0"
+  }
+}

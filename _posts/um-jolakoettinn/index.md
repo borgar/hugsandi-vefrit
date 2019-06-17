@@ -1,0 +1,27 @@
+Title: Um jólaköttinn
+Slug: um-jolakoettinn
+Date: 2005-12-22 09:00:00
+UID: 31
+Lang: is
+Author: Hrefna S. Bjartmarsdóttir
+Author URL: 
+Category: Þjóðfræði
+Tags: jólaköttur, Grýla, köttur, jólasveinn, refsing
+
+![Jólakötturinn ætlar að éta þig!](51.jpg)
+
+„Fólk vissi ekki hvaðan hann kom eða hvert hann fór.“ Þannig segir í kvæði Jóhannesar úr Kötlum um jóla&shy;köttinn. En skepna sú hefur löngum þótt dular&shy;full vera og ill&shy;skiljan&shy;leg.
+
+Allt frá tímum forn-Egypta þegar byrjað var að temja köttinn sem heimilis&shy;dýr hefur kötturinn haft á sér dularfullan blæ í trúar&shy;brögðum og þjóð&shy;trú manna og verið tengdur göldrum og myrkra&shy;öflum ýmis&shy;konar. Þessi tengsl kattarins við undir&shy;heima og myrkra&shy;verk eru eflaust tilkomin vegna náttúrulegs eðlis kattarins sem næturdýrs og meðfæddra hæfileika hans til að bjarga sér í náttmyrkri. Þessi ímynd kattarins í þjóðtrúnni hefur fylgt honum fram á þennan dag og kristin trúarbrögð hafa ekki náð að breyta henni.
+
+Jólakötturinn er í samræmi við þessa ímynd, hann er vera sem fer á kreik í svartasta skammdeginu ár hvert og vekur ugg í brjóstum manna. Elsta heimild um hann er í sendibréfi sem ritað var um miðja 19. öld. Síðan birtist hann fyrst á prenti í þjóðsögum Jóns Árnasonar árið 1862. Elsta heimild sem ég þekki um það að illt hendi þann sem ekki fær ný föt fyrir jól er frá Skotlandi frá því um aldamótin 1500. En hversu gömul hún er þessi þjóðtrú um köttinn í tengslum við undirbúning jóla, er ekki vitað né það hvernig hún varð til.
+
+Köttur þessi gerði víst ýmsar skammir af sér en sagt var að hann æti stundum jólaref fólksins en það er sá matur sem hverjum manni var skammtað til jólanna hér áður. Fleiri siðir tengdust jólakettinum og einn var svo að klára skyldi allt sem byrjað var á fyrir jólin annars varð það jólafeitt. Það þýddi að jólakötturinn tók þá allt feitmeti sem fólki var skammtað á jólum og nuddaði því í óklárað prjónlesið. Af einhverjum ástæðum virðist sem þessi siður hafi einkum þekkst á vestanverðu landinu.
+
+En það sem þekktast er við kött þennan eru þau orðtök sem honum tengjast, en sagt er að sá fari í jólaköttinn sem enga flík fær nýja fyrir jólin, einnig er talað um að sá klæði köttinn / jólaköttinn sem ekki fær nýja flík fyrir jólin. Þetta síðarnefnda orðtak þekkist einkum norðanlands. Einnig þekkist það að sá fari í jólaköttinn sem síðastur fer í sparifötin á aðfanga&shy;dags&shy;kvöld. Þetta orðtak má skilgreina á fleiri en einn veg. Sagt er að jólakötturinn refsi fólki með því að taka það og gera því eitthvert mein, í versta falli að éta það. Út frá þeirri skilgreiningu er hann óvættur og aðeins hættulegur þeim sem ekki fá nýja flík á jólum. Einnig hafa fræðimenn bent á skil&shy;greininguna að fara í jólaköttinn eða klæða köttinn/jólaköttinn í þeirri merkingu að klæðast gervi kattarins og leiðir það hugann að þeim dýragervum sem þekkst hafa í jólaleikjum og vikivökum hérlendis og erlendis frá fornu fari. Þar þekktist að menn klæddust gervum ýmissa dýra og vætta. Þar sem staða kattarins í þjóðtrúnni er sterk er ekki ólíklegt að  þekkst hafi að klæðast gervi kattarins þrátt fyrir að ekki finnast heimildir þar um hér á landi.
+
+Samskonar vættir og jólakötturinn hérlendis eru Grýla og jóla&shy;sveinarnir. Hlutverk þeirra hefur einkum falist í því að hafa hemil á óþekkum börnum sem trufla undirbúning foreldra fyrir jólin. Grýla gegnir að sögn enn sam&shy;visku&shy;sam&shy;lega þessu hlutverki sínu en eftir að jóla&shy;sveinarnir okkar kynnust heilögum Nikulási hafa þeir tekið algjörum stakkaskiptum og eru nú þægir sem lömb. Samskonar jólavættir þekkjast víðar í Evrópu og má í því sambandi nefna jólahafra og jólageitur Norðurlanda. Einnig þekkjast þar sambærilegir siðir sem hér hafa verið nefndir í tengslum við jólaköttinn. Það eina sem virðist séríslenskt við þennan jólavætt okkar er það að hann er kattarkyns.
+
+Ljóst er að hlutverk jólakattarins og samskonar jólavætta tengdist vinnusemi fólks í bænda&shy;sam&shy;félaginu og undirbúningi fyrir jólin. Það gefur auga leið afhverju hræða þurfti fólk og refsa sem ekki fengu ný föt fyrir jólin. Í samfélagi sjálfs&shy;þurftar&shy;bú&shy;skapsins valt á öllu að fólk ynni saman að sameiginlegu markmiði og  til þess að njóta jóla&shy;hátíðarinnar varð að klára öll verk tímanlega, m.a. það að prjóna og útbúa fatnað fyrir jólin. Það var hagur húsbændanna og heimilismanna að allur undirbúningur jóla gengi vel fyrir sig og ef einhverjir voru latir og töfðu verkin, varð eðlilega að grípa til einhverra úrræða. Og þar komu ofangreindir refsivendir þ.e. jólakötturinn og ættingjar hans til sögunnar.
+
+En þrátt fyrir það að forsendurnar fyrir hlutverki jólakattarins séu brostnar með breyttri samfélagsgerð er hann samt ekki útdauður. Nú í  byrjun  nýrrar  aldar, er kötturinn enn á sveimi því stundum sést vitnað í þennan forna fjanda m.a. í fata&shy;aug&shy;lýsingum fyrir jólin. Það er í samræmi við orð eins heimildamanns þjóð&shy;hátta&shy;deildar þjóð&shy;minja&shy;safnsins sem telur jólakött nútímans birtast í gervi sölumannsins og tilbúinna þarfa þess verslunaræðis sem nú einkennir jólin og ógnar fjár&shy;hags&shy;af&shy;komu fólks.

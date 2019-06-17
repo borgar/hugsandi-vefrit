@@ -1,0 +1,2 @@
+Dagný er með BA-próf í fornleifafræði frá Háskóla Íslands og University of York í einnar annar skiptinámi. Hún vinnur um þessar mundir að því að leggja lokahönd á meistaraprófsritgerð í umhverfis- og auðlindafræði við Háskóla Íslands. Dagný var formaður Gaiu, félags meistaranema í umhverfis- og auðlindafræðum, veturinn 2007-08. Hún starfar nú í hlutastarfi sem verkefnastjóri meistaranáms í umhverfis- og auðlindafræðum og er auk þess verkefnaráðinn starfsmaður Félags umhverfisfræðinga á Íslandi (FUMÍ).
+

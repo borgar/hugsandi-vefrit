@@ -1,0 +1,1 @@
+Þóra er með BA-próf í sagnfræði (með landfræði sem aukagrein) frá Háskóla Íslands. Hún er með MA gráðu í fornleifafræði frá Háskólanum í Tromsø (UITø) í Noregi og stundar nú doktorsnám við sama skóla. Hún er jafnframt formaður AkureyrarAkademíunnar.
