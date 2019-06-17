@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hugsandi</title>
-    <link>/hugsandi.is/</link>
-    <description></description>
-    <lastBuildDate>Thu, 15 Jan 2009 10:16:15 GMT</lastBuildDate>
-    <item>
-      <title>Ég hef mjög löggiltan smekk!</title>
-      <link>/articles/eg-hef-mjog-loggiltan-smekk/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/eg-hef-mjog-loggiltan-smekk/picture-003.jpg&quot; alt=&quot;Hlussa&quot;&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hugsandi</title>
+  <link rel="alternate" href="/hugsandi-vefrit/hugsandi.is/hugsandi-vefrit/" />
+  <link rel="self" href="/hugsandi-vefrit/feed/atom/" />
+  <id />
+  <updated>2009-01-15T10:16:15.000Z</updated>
+  <entry>
+    <title>Ég hef mjög löggiltan smekk!</title>
+    <link href="/hugsandi-vefrit/articles/eg-hef-mjog-loggiltan-smekk/" rel="alternate"></link>
+    <updated>2009-01-15T10:16:15.000Z</updated>
+    <id>tag:null,2009-01-15:/hugsandi-vefrit/articles/eg-hef-mjog-loggiltan-smekk/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/eg-hef-mjog-loggiltan-smekk/picture-003.jpg&quot; alt=&quot;Hlussa&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Á haustmánuðum 2008 kom út bókin Andi Reykjavíkur eftir Hjörleif Stefánsson. Bókin hefur verið sögð þarft innlegg í umræðu sem hefur stigmagnast á síðustu mánuðum og árum, nú síðast í umræðunni um fyrirhugaða nýbyggingu Listaháskóla Íslands við Laugaveg og í uppkaupum borgarstjórnar á húsunum við Laugaveg 4 og 6.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Vissulega var umræðan um hús fyrir listaskóla og gömul timburhús í miðborginni mjög fyrirferðamikil síðstu misseri fyrir &lt;em&gt;„hrun“&lt;/em&gt; en hvað hefur sú umræðan skilið eftir sig? Var hún hugsanlega einungis bitbein misvísra borgarfulltrúa? eða verður hún til þess að efla faglega umræðu um byggingar- og skipulagsmál í landinu? en skortur virðist vera á  faglegri umræðu um byggingarlist í landinu.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;„Fjöldi þátttakenda, niðurstaðan og raunar keppnin öll er í raun mikill sigur fyrir íslenska arkitekta og íslenska byggingarlist; hér verður hægt að sjá að Íslendingar eru fullfærir um að hanna frábæra byggingu sem mætir með einstökum hætti þörfum þeirrar öflugu stofnunar sem Listaháskóli Íslands er og skapa honum umgjörð til að eflast enn frekar í framtíðinni til heilla fyrir íslenska menningu og þjóðlíf“&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; sagði Þorgerður Katrín Gunnarsdóttir við opnun sýningarinnar sem sett var upp í kjölfar samkeppninnar um hús Listaháskólans við Laugaveg sumarið 2008. Orð Þorgerðar eru háleit og virðast eiga að styrkja íslenska þjóðarstoltið sem er einhvern vegin alltaf með minnimáttakennd.&lt;/p&gt;
@@ -35,14 +37,15 @@
 &lt;p&gt;Fagleg og fræðileg umræða þarf að fara fram um áhrif skipulagsyfirvalda á verk arkitekta í dag og áhrif stjórnmálamanna á skipulag og byggingarlist í landinu. Einnig þyrfti að rannsaka hver áhrif kaupandans eða byggingarverktakans eru á vinnubrögð arkitekts. Eru það hugsanlega byggingaverktakar sem stuðla að byggingarlist í landinu?&lt;/p&gt;
 &lt;p&gt;Arkitektar teljast til listamanna en þrátt fyrir það virðast þeir vera hafnir yfir gagnrýni á verk sín. Gagnrýnin og uppbyggileg fagleg umræða fyrirfinnst ekki í þeim skýjaborgum sem íslenskir arkitektar hafa byggt sér. Hvorki meðal þeirra sjálfra né frá almenningi í landinu, sem á þó mestra hagsmuna að gæta, þar sem almenningur er sá sem býr í listaverkum arkitektanna og notar þau.&lt;/p&gt;
 &lt;p&gt;Í öllum öðrum listgreinum starfa gagnrýnendur sem mæla út og dæma ákveðin listaverk, hvort sem um er að ræða, tónlist, myndlist, dans- eða leiklist. Skáldsögur rithöfunda eru ræddar og fræðimenn í hinu akademíska umhverfi takast á um efnistök og niðurstöður annara fræðimanna og ritrýna verk þeirra og nota til þess fagleg og gagnrýnin rök. Því spyr maður sig, hversvegna er þetta ekki gert meðal íslenskra arkitekta?&lt;/p&gt;
-</description>
-      <pubDate>Thu, 15 Jan 2009 10:16:15 GMT</pubDate>
-Reykjavík
-    </item>
-    <item>
-      <title>Hlæðu og heimurinn hlær með þér</title>
-      <link>/articles/hlaedu-og-heimurinn-hlaer-med-ther/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/hlaedu-og-heimurinn-hlaer-med-ther/joker.jpg&quot; alt=&quot;joker&quot;&gt;&lt;/p&gt;
+</summary>
+    <category term="Reykjavík"></category>
+  </entry>
+  <entry>
+    <title>Hlæðu og heimurinn hlær með þér</title>
+    <link href="/hugsandi-vefrit/articles/hlaedu-og-heimurinn-hlaer-med-ther/" rel="alternate"></link>
+    <updated>2009-01-13T11:25:23.000Z</updated>
+    <id>tag:null,2009-01-13:/hugsandi-vefrit/articles/hlaedu-og-heimurinn-hlaer-med-ther/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/hlaedu-og-heimurinn-hlaer-med-ther/joker.jpg&quot; alt=&quot;joker&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Í doktorsverkefni sínu &lt;em&gt;Om Begrebet Ironi med stadigt Hensyn til Socrates&lt;/em&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; setur Søren Kierkegaard fram umdeilda lesningu sína á Sókratesi sem íronískri persónu. Hann komst að þessari niðurstöðu eftir ítarlega rannsókn á þremur meginheimildum um Sókrates: textum Xenophons, leikritinu &lt;em&gt;Skýjunum&lt;/em&gt; eftir Aristófanes og samræðum Platons. Hann hélt því fram að Xenophon og Platon gæfu skakka mynd af Sókratesi, sá fyrri gerði honum ekki nógu hátt undir höfði en sá seinni lýsti honum á alltof mikilfenglegan hátt. En hann telur að með því að feta milliveginn sé hægt að komast að mynd af Sókratesi sem er næst raunveruleikanum. Einnig heldur hann því fram að Aristófanes gefi sem réttasta mynd af hinum sanna, sögulega Sókratesi.&lt;/p&gt;
 &lt;p&gt;En hvað á hann við með íróníu og Sókratesi sem dæmi um íroníska persónu? Að mati Kierkegaards er íronía lífsháttur sem birtist í öllum gjörðum manneskjunnar. Einkenni hennar er algert skeytingarleysi um sannleikann, írónísk persóna er ekki bundin sannleikanum á neinn hátt. Þetta sést í því að persónan segir t.d. eitt og gerir eitthvað allt annað eða heldur fram einhverju tvennu sem stangast algjörlega á. Þetta sést mjög vel í mörgum verkum um Sókrates þar sem hann virðist alls ekki fylgja neinum sömu reglum og samtímamenn hans í Aþenu. Eitt besta dæmið er kannski sú fræga fullyrðing hans að það eina sem hann viti sé að hann viti ekki neitt. Kierkegaard lýsir þessu vel: „He delights in knowing that he knows nothing, and he finds himself boundlessly disencumbered by it, whereas the others are slaving themselves to death for pennies. Socrates never understands ignorance speculatively but finds it so comfortable, so portable.“&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Sókrates hefur því allt annað gildismat en allir aðrir. Hann gengur um og rökræðir við samborgara sína en virðist engan áhuga hafa á neinu því sem aðrir sækjast eftir: „Indeed, the happier he is over this nothing – not as result but as boundless freedom – the more profound his irony.“&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Þetta er íronía að mati Kierkegaards, þegar maður er alfarið laus við gildi og viðmið samtíma síns, leitast í rauninni ekki eftir neinu veraldlegu og er þar af leiðandi raunverulega frjáls.&lt;/p&gt;
@@ -53,13 +56,14 @@ Reykjavík
 &lt;p&gt;Ef við samþykkjum Jókerinn sem íroníska persónu í skilningi Kierkegaards verður persónan mun skýrari. Í rauninni hefur hann engan tilgang annan en að skemmta sér: „Do I really look like a guy with a plan? You know what I am? I&amp;#39;m a dog chasing cars. I wouldn&amp;#39;t know what to do with one if I caught it. You know, I just... do things.“ Hann þarf ekki á neinum öðrum persónum að halda, er á allan hátt sjálfum sér nægur eins og Kierkegaard hélt fram um Sókrates og er ekki á höttunum eftir neinu af því sem samborgarar hans telja mikilvægt. Á sama hátt er hann á undan sínum samtíma eins og Sókrates: „You see, I&amp;#39;m not a monster. I&amp;#39;m just ahead of the curve.“, og nær að knýja fram miklar breytingar á hugarfari fólks sem umgengst hann, ekki síst Bruce Waynes.&lt;/p&gt;
 &lt;p&gt;Það er þó ýmislegt sem virðist mæla gegn hugmyndinni um Jókerinn sem íroníska persónu. Í seinni hluta myndarinnar virðist hann segja frá tilgangi sínum: „Introduce a little anarchy. Upset the established order, and everything becomes chaos. I&amp;#39;m an agent of chaos.“ Þannig mætti túlka hann sem einhvers konar pólitískan karakter. En við verðum að hafa í huga að það er fyllilega búið að sýna fram á að við getum ekki treyst neinu sem hann segir. Hann er svo mótsagnakenndur að það er engin ástæða til að ætla að þarna greini hann frá hinu eina sanna ætlunarverki sínu. Einnig er hann í umræddu atriði að tala við Harvey Dent sem hann er nýbúinn að valda miklum skaða og er að reyna að fá hann til að snúast gegn vinum sínum. Hvers vegna er hann að því? Líklegasta skýringin er sú að hann gerir það aðeins sér til skemmtunar, til að sjá mann sem eitt sinn var dáður af öllum borgarbúum og var talin helsta von Gothams falla og til þess að fá því framgengt segir hann bara hvað sem er, það sem henti við komandi aðstæðum.&lt;/p&gt;
 &lt;p&gt;Því ætti greiningin á Jókernum sem íronískri persónu í skilningi Kierkegaards að geta staðist. Að sjálfsögðu er ýmislegt sem passar ekki, það sem kemur kannski fyrst í hugann er að Jókerinn beitir ofbeldi ólíkt Sókratesi. Það þarf einnig að hafa í huga að greining Kierkegaards á hugtakinu írona er mun víðtækari og dýpri en ég get gert grein fyrir hér. En hin grunnlífsafstaða, sem Kierkegaard lýsir í verki sínu, algjört skeytingarleysi á sannleikanum, frelsi og enginn annar tilgangur með neinum gjörðum önnur en ánægjan sjálf, passar vel við Jókerinn og er hann því gott dæmi um íroníska persónu í nútímakvikmyndum.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 13 Jan 2009 11:25:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fornleifafræði fyrir börn – áhrifarík leið til efldrar söguvitundar?</title>
-      <link>/articles/fornleifafraedi-fyrir-born-ahrifarik-leid-til-efldrar-soguvitundar/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/fornleifafraedi-fyrir-born-ahrifarik-leid-til-efldrar-soguvitundar/fornleifaskoli-barnanna.jpg&quot; alt=&quot;Ungir fornleifafræðingar að störfum&quot;&gt;&lt;/p&gt;
+</summary>
+  </entry>
+  <entry>
+    <title>Fornleifafræði fyrir börn – áhrifarík leið til efldrar söguvitundar?</title>
+    <link href="/hugsandi-vefrit/articles/fornleifafraedi-fyrir-born-ahrifarik-leid-til-efldrar-soguvitundar/" rel="alternate"></link>
+    <updated>2009-01-08T12:24:18.000Z</updated>
+    <id>tag:null,2009-01-08:/hugsandi-vefrit/articles/fornleifafraedi-fyrir-born-ahrifarik-leid-til-efldrar-soguvitundar/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/fornleifafraedi-fyrir-born-ahrifarik-leid-til-efldrar-soguvitundar/fornleifaskoli-barnanna.jpg&quot; alt=&quot;Ungir fornleifafræðingar að störfum&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Á undangengnum árum hefur orðið töluverð vakning í fornleifarannsóknum hér á landi. Þessi vakning hefur ekki einungis orðið til þess að efla fornleifafræði sem fræðigrein heldur einnig til þess að efla vitund og áhuga meðal almennings á greininni. Mikill fjöldi fólks heimsækir fornleifafræðinga við störf sín hvert sumar og fylgist með hvernig rannsóknum vindur fram. Við einhverja af stærri uppgröftunum hefur jafnvel verið stofnað til sérstaks stöðugildis tengt kynningu og móttöku almennings. Þessi aukni áhugi hefur einnig birtst í svokölluðum fornleifaskólum þar sem börnum og ungmennum hefur gefist kostur á að kynnast starfi fornleifafræðinga á beinan hátt, þótt oft sé sú viðkynning að hluta til „sviðsett&amp;quot;. Þetta hefur m.a. verið gert á Þingvöllum og í Skálholti og hefur mælst vel fyrir.&lt;/p&gt;
 &lt;p&gt;Hugmyndin með þessum fornleifaskólum hefur þó fyrst og femst verið sú að veita börnum stutta og skemmtilega kynningu á „fornleifafræðilegri fjársjóðsleit&amp;quot;, þar sem þau halda sæl heim að vinnudegi loknum með diplómu og minjagrip í hendi. Það er skemmtileg og góð dægradvöl í einn dag á sumri og ekki nema gott um það að segja. Hins vegar held ég að möguleikarnir sem í fornleifunum og fornleifafræðinni felast í tengslum við fræðslu barna séu mun meiri en svo. Ég geirst jafnvel svo kræf að nýta mér ofnýttan frasa og segja að fornleifafræði sé &lt;em&gt;vannýtt auðlind&lt;/em&gt; í kennslu barna í grunnskólum landsins.&lt;/p&gt;
 &lt;p&gt;Ég þekki aðeins eitt dæmi þess að tilraun hafi verið gerð til þess að tvinna fornleifafræði markvisst inn í kennslu á grunnskólastigi, þ.e. í Litlulaugaskóla á Laugum í Reykjadal í Suður-Þingeyjasýslu. Þar var &lt;em&gt;Fornleifaskóli barnanna&lt;/em&gt; stofnaður vorið 2007 að frumkvæði áhugamanna á svæðinu og forsvarsmanna skólans. Þeir fengu til liðs við sig sérfræðinga á sviði fornleifafræði til þess að þróa hugmyndina áfram og útkoman er Fornleifaskóli sem er samvinnuverkefni Ferðaþjónustunnar á Narfastöðum, Litlulaugaskóla, Brooklyn College og Hunter College í New York, Fornleifastofnunar Íslands, Þingeysks sagnagarðs og Hins þingeyska fornleifafélags. Skólastarfið er enn, og verður, í mótun, en markmiðið með stofnun skólans er að skapa nýjan vettvang fyrir samstarf ólíkra aðila, innan héraðs og utan, um fræðslu barna og unglinga um söguna og menningararfinn og gildi þessa fyrir okkur í dag. Þetta er gert með hliðsjón af, og í beinum tengslum við fornleifarannsóknir í næsta nágrenni nemendanna - svæðis sem þeir þekkja og eiga auðvelt með að tengja við.&lt;/p&gt;
@@ -69,15 +73,16 @@ Reykjavík
 &lt;p&gt;Íslandssaga er og hefur lengi verið hluti af kennsluskrá grunnskóla, þótt þekking og áherslur innan kennslunnar og þær bækur sem stuðst er við hafi breyst í tímans rás. Engu að síður er það svo að þær bækur sem kenndar eru í Íslandssögu í grunnskólum landsins í dag eru ekki gallalausar, og auðivtað óraunhæft að ætla að þær verði það nokkurn tíma. Hins vegar er hollt á hverjum tíma að velta því fyrir sér hvernig megi gera betur. Einn galli sem oft loðir við sögubækur, sérlega þær sem fjalla um fyrri skeið Íslandssögunnar, er sá að þær segja fyrst og fremst sögur af körlum og pólitísku (eða trúarlegu) valdabrölti þeirra. Þær styðjast fyrst og fremst við ritaðar heimildir, sem ritaðar voru um karla, af körlum (eða það hafa menn gefið sér), fyrir karla, og gefa því sérlega götótta mynd af samfélögum fortíðar. Það sem meira er, ég held það sér ekki sérlega auðvelt fyrir 10 ára barn í dag að samsama sig þessari mynd, eða yfir höfuð að ná einhverri tengingu við hana og þ.a.l. skilningi á henni. Ekki bara vegna þess að mjög fá, ef einhver, 10 ára börn koma til sögunnar, heldur líka vegna þess að á þessum aldri á pólitískt valdabrölt lítið erindi við mann, þótt vissulega eigi það sér hliðstæður í samtímanum. Nærtækara er e.t.v. að samsama sig hinu hversdagslega lífi fólks og barna, sem hins vegar fær lítið rúm í kennslubókum og byggir aðallega á rituðum heimildum. Þar getur fornleifafræðin hins vegar bætt ýmsu við.&lt;/p&gt;
 &lt;p&gt;Því er oft haldið fram að Íslendingar séu sérstaklega áhugasamir um sagnfræði og sögu sína, og séu jafnvel sögulega meðvitaðri en aðrar þjóðir. Þetta er svo gjarnar stutt og skýrt með vísun í það hversu vel Íslendingar búa af heimildum um sögu sína, og er þá fyrst of fremst átt við ritheimildir. Þessu vil ég hvorki andmæla né sammælast enda veit ég varla nóg um söguvitund Íslendinga og ekkert um söguvitund annarra þjóða. Hins vegar er mikið til í því að Íslendingar eru auðugir af heimildum um fortíð sína, og þessar heimildir eru fjölbreyttar og ólíkar. Það vantar hins vegar nokkuð upp á að þessar heimildir séu nýttar jöfnum höndum til þess að upplýsa æsku landsins um uppruna sinn og sögu. Söguna og sögubækur á alltaf að endurskrifa og kannski er kominn tími til þess að matreiða upp á nýtt það sem lagt er á borð fyrir börnin okkar og kallað er Íslandssaga. Eins held ég, eins og fram hefur komið, að ýmislegt gæti áunnist með því að breyta því hvernig miðlunin eða kennslan fer fram. Þ.e.a.s. að auka megi skilning og tengsl barna við söguna með því að leyfa þeim að komast í beina snertingu við hana &lt;em&gt;og sköpun hennar&lt;/em&gt;. Þá erum við komin að atriði sem ég held að sé mjög mikilvægt og fornleifafræðin getur varpað skýrara ljósi á. Þ.e. að börnin kynnast því hvernig hugmyndir manna, einnig nefndar „þekking&amp;quot;, um fortíðina (eða önnur fyrirbæri) verða til smátt og smátt, breytast og þróast, í samspili við gögnin og heimildirnar. Þetta er grunnurinn að gagnrýnni hugsun sem ég held að mætti halda að börnum í miklu meiri mæli en gert er. Þau eru ekki of ung til þess að skilja það að enginn einn stór sannleikur, eða &lt;em&gt;Íslandssaga frá A-Ö&lt;/em&gt;, sé til. Hins vegar er nauðsynlegt að þjálfa slíka gagnrýna hugsun og það má m.a. gera með því að gera eigin rannsóknir á fortíðinni, undir formerkjum vísindalegrar aðferðar, og hægt og bítandi að pússlu gögnunum saman í eigin hugmynd um hvernig hlutum var háttað. Með þessu móti verða börnin raunverulegir þátttakendur í sögunni og fá útrás fyrir ímyndunarafl og sköpun - og átta sig á því hvað sköpun eða túlkun er stór þáttur (sögulegrar) þekkingar.&lt;/p&gt;
 &lt;p&gt;Þótt svo hér sé ég aðallega að fjalla um tenginguna við söguna, og hvernig fornleifafræðin getur nýtst til þess að efla söguvitund og skilning, þá má hugsa sér að hún geti orðið til þess að efla ýmisa aðra jákvæða þætti líka, eins og útivist, umhverfisvitund og skilning á samspili manns og náttúru. Eins bera að undirstrika að fornleifafræði sem liður í kennslu þarf aldrei að teljast til forréttinda barna á landsbyggðinni, þar sem návígi við „dæmigerðar fornleifar&amp;quot; er hvað augljósast. Fornleifaræði er hugmyndafræði og aðferð til þess að nálgast fortíðina  - þ.e. gærdaginn og allt þaðan af eldra. Fortíðin er því allt í kringum okkur - „garbology-verkefnið&amp;quot; er eitt dæmi um það - og bíður þess að við lesum í hana&lt;/p&gt;
-</description>
-      <pubDate>Thu, 08 Jan 2009 12:24:18 GMT</pubDate>
-Fornleifafræði
-sögukennsla
-    </item>
-    <item>
-      <title>Íslenskar krísurannsóknir, já takk!</title>
-      <link>/articles/islenskar-krisurannsoknir-ja-takk/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/islenskar-krisurannsoknir-ja-takk/heimaey.jpg&quot; alt=&quot;heimaey&quot;&gt;
+</summary>
+    <category term="Fornleifafræði"></category>
+    <category term="sögukennsla"></category>
+  </entry>
+  <entry>
+    <title>Íslenskar krísurannsóknir, já takk!</title>
+    <link href="/hugsandi-vefrit/articles/islenskar-krisurannsoknir-ja-takk/" rel="alternate"></link>
+    <updated>2009-01-06T11:02:29.000Z</updated>
+    <id>tag:null,2009-01-06:/hugsandi-vefrit/articles/islenskar-krisurannsoknir-ja-takk/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/islenskar-krisurannsoknir-ja-takk/heimaey.jpg&quot; alt=&quot;heimaey&quot;&gt;
 Flest þekkjum við söguna – eða klisjuna - um „stríð mannsins við náttúruöflin“ í jarðeldunum á Heimaey fyrri hluta árs 1973, þar sem „maðurinn sigraði“ að lokum. Fyrir einhverja ótrúlega guðs mildi var allur fiskiskipaflotinn í höfn og því hægt að flytja þorra bæjarbúa til Þorlákshafnar á svipstundu og þaðan í strætó til Reykjavíkur. Yfirvöld brugðust skjótt við og á aðeins nokkrum dögum samþykkti Alþingi sérstök krísulög vegna hamfaranna. Viðlagasjóður, fjármagnaður með erlendu söfnunarfé og nýjum skattaálögum, tók til starfa. Með ótrúlegri seiglu og hugviti tókst að koma í veg fyrir að hraunstraumurinn lokaði innsiglingu hafnarinnar þegar leið á gos. Aðeins einn maður kafnaði í gasinu svokallaða, þrátt fyrir að um þrjú til átta hundruð manns hafi dvalist að staðaldri við ýmis störf í Heimaey á gostíma. Um 40% húseigna fóru undir hraun eða gjöreyðilögðust á annan hátt. Þó sneri þorri bæjarbúa fljótlega aftur eftir að gosið var blásið af sumarið 1973. Þetta reddaðist allt og gott betur. Sigur vannst. Eða hvað? Var eldgosið í Heimaey blessun í dulargervi sem færði sveitarfélaginu betri höfn, nýja möguleika til húshitunar og stóraukinn straum ferðamanna? Já, vissulega. En samfara gosinu átti sér stað bullandi samfélags-, efnahags- og umhverfiskrísa, sem enn er órannsökuð að mestu.&lt;/p&gt;
 &lt;h3 id=&quot;fótnóta-stórsögunnar&quot;&gt;Fótnóta stórsögunnar&lt;/h3&gt;
 &lt;p&gt;Frá miðjum áttunda áratugnum og þar til í jólabókaflóði ársins 2008 var harla lítið um opinbera umfjöllun um það öryggisleysi, angist og skilningsleysi sem bróðurpartur Eyjafólks á meginlandinu upplifði á gostíma. Fimm þúsund manns urðu heimilislausir sjálfa gosnóttina, en um þrjú hundruð manns, nánast eingöngu karlar, urðu eftir í Vestmannaeyjum eða sneru strax aftur. Liðsauki bættist síðan við að sunnan því verðmætum þurfti vissulega að bjarga. En aðstæður þeirra sem „komið var í skjól“ voru heldur óspennandi. Óvissan um tímalengd gossins var mikil. Sumar fjölskyldur sundruðust vegna plássleysis hjá ættingjum og aðrar lentu á hálfgerðum vergangi. Sumar fjölskyldur voru heppnari og fengu leigða íbúð. Fæstir gengu beint í störf í fyrstu en þáðu þess í stað mánaðarlegar bótagreiðslur. Börn misstu sjónar á vinum, jafnvel til frambúðar, og sum hver stunduðu nám í helst til mörgum grunnskólum á einum vetri. Þrátt fyrir nýtilkomna Viðlagatryggingu var fólk afar uggandi um sinn fjárhag. Heilmikið mál yrði að endurnýja hluti eins og ísskápa, klósett og sófasett, ekki síst á tímum gjaldeyrishafta. Aleigan var að fara undir hraun. Myndu búslóðabjörgunarmenn á vettvangi bara sjá verðmæti í mublum og hreinlætistækjum en hirða ekki um ættargóssið, mávastellið og alla persónulegu munina? Átti unga konan, sem mánuðum saman hímdi með vinafá börnin í kjallaraíbúð í höfuðborginni, kannski ekki  að hugsa um slíka smámuni á krísutímum? Við heimkomu var allt svart í bókstaflegri merkingu þess orðs; marga mánuði tók að moka vikri af húsþökum, götum og túnum. Gosið hélt áfram að vera alltumlykjandi í tilveru fólks. Hún varð skilgreind að nýju; allt varð annað hvort &lt;em&gt;fyrir&lt;/em&gt; gos eða &lt;em&gt;eftir&lt;/em&gt; gos.  &lt;/p&gt;
@@ -105,13 +110,14 @@ Flest þekkjum við söguna – eða klisjuna - um „stríð mannsins við nát
 &lt;li&gt;Viðlagasjóður Íslands. (1978). Skýrsla um starfsemi Viðlagasjóðs 1973-1977.&lt;/li&gt;
 &lt;li&gt;Þorleifur Einarsson. (1974). The Heimaey-eruption in words and pictures; [English translation Alan Boucher]. Reykjavík: Heimskringla.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-      <pubDate>Tue, 06 Jan 2009 11:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gleðileg jól</title>
-      <link>/articles/gledileg-jol/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/gledileg-jol/jolalukka.jpg&quot; alt=&quot;jolalukka&quot;&gt;
+</summary>
+  </entry>
+  <entry>
+    <title>Gleðileg jól</title>
+    <link href="/hugsandi-vefrit/articles/gledileg-jol/" rel="alternate"></link>
+    <updated>2008-12-23T23:03:24.000Z</updated>
+    <id>tag:null,2008-12-23:/hugsandi-vefrit/articles/gledileg-jol/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/gledileg-jol/jolalukka.jpg&quot; alt=&quot;jolalukka&quot;&gt;
 Jólin eru að koma.&lt;/p&gt;
 &lt;p&gt;Undirbúningur fólks fyrir hátíðarnar er með ýmsu móti en flestir reyna að gera sér einhvern dagamun í skammdeginu til að komast í hið eftirsótta jólaskap. Misjafnt er hvað þarf til að kalla fram það fram. Jólaneistinn kviknar í brjósti einhverra um leið og diskójóladrottningin Helga Möller heyrist syngja „Ég kemst í  hátíðarskap…“ í útvarpinu snemma í desember. Aðrir forðast eftir fremsta megni að láta jólalögin ná eyrum sínum og detta alveg úr stuði þegar frú Möller hefur upp raust sína. Jólagjafakaup, jólabakstur, jólatónleikar, jólahlaðborð, jólatréshögg og jólaglögg eru fastir liðir eins og venjulega hjá mörgum sem hafa tíma til þess að kynda skipulega undir jólaskapinu – og jafnvel streitunni um leið. Aðrir líða um í stóískri ró í desember í þeirri fullvissu um að ekki þurfi að stressa sig fyrir komu jólanna því þau komi hvort sem þeir eru „búnir að öllu“ eða ekki. Hver hefur sinn háttinn á. &lt;/p&gt;
 &lt;p&gt;Ég hef oft tekið jólaundirbúninginn með stæl og stífri dagskrá. En nú í byrjun desember þegar ég sá fram á að eyða megninu af tíma mínum fram að jólum á loftlausri Bókhlöðunni við ritgerðarskrif og próflestur ákvað ég að stóíska leiðin myndi henta betur þetta árið. Í ár hef ég því eytt litlum tíma í hlaup á milli búða í leit að réttu gjöfunum. Engar smákökur hafa verið bakaðar á heimilinu (hmm… ég verð reyndar að viðurkenna að ég hef aldrei bakað fyrir jólin – eftirlæt fagmönnum þá list). Allir jólatónleikarnir sem haldnir hafa verið undanfarnar vikur fóru gersamlega framhjá mér þar sem ég sat við lestur í þægilegri þögn á bókasafninu. Ég pantaði ekki sæti við neitt af þeim girnilegu hlaðborðum sem veitingastaðir landsins buðu upp á (lét mig þó iðulega dreyma um slíkar kræsingar þegar ég borðaði tilbreytingarsnautt nestið mitt á Bókhlöðunni). Að auki datt hefðbundin ferð fjölskyldu og vina í jólatréshögg upp fyrir. Framan af mánuðinum hafa því ljósasýningar skreytiglaðra nágrannanna verið helsta vísbendingin um að jólin væru á næsta leiti. &lt;/p&gt;
@@ -119,14 +125,15 @@ Jólin eru að koma.&lt;/p&gt;
 &lt;p&gt;Daginn fyrir Þorláksmessu ákvað ég að nóg væri komið af stóík og vatt mér í gjafakaupin sem tókust með ágætum. Í verslunarleiðangrinum fann ég jólastressið í umferðaröngþveitinu sem ég lenti í á leiðinni heim (hversu margir bílar komast fyrir í einni lítilli borg?). Kvöldinu eyddi ég svo í að setja upp jólaljós í hvern glugga og taka fram jólaskrautið svo það væri tilbúið fyrir tréð sem á enn eftir að kaupa. Jólaskapið fann ég í einum kassanum þegar ég tók upp gamla grjónafyllta jólasveininn sem hefur fylgt mér á jólunum frá því ég var fjögurra ára. Nú á ég bara eftir að kaupa jólatré. &lt;/p&gt;
 &lt;p&gt;Jólin eru að koma. &lt;/p&gt;
 &lt;p&gt;Gleðileg jól.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 23 Dec 2008 23:03:24 GMT</pubDate>
-Helga Möller
-    </item>
-    <item>
-      <title>Íslendingar undir hæl ímyndarinnar?</title>
-      <link>/articles/islendingar-undir-hael-imyndarinnar/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/islendingar-undir-hael-imyndarinnar/visuel-boreales-horiz.jpg&quot; alt=&quot;Les Boreales&quot;&gt;&lt;/p&gt;
+</summary>
+    <category term="Helga Möller"></category>
+  </entry>
+  <entry>
+    <title>Íslendingar undir hæl ímyndarinnar?</title>
+    <link href="/hugsandi-vefrit/articles/islendingar-undir-hael-imyndarinnar/" rel="alternate"></link>
+    <updated>2008-12-18T11:21:26.000Z</updated>
+    <id>tag:null,2008-12-18:/hugsandi-vefrit/articles/islendingar-undir-hael-imyndarinnar/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/islendingar-undir-hael-imyndarinnar/visuel-boreales-horiz.jpg&quot; alt=&quot;Les Boreales&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Í nóvember ár hvert snýst lífið í borginni Caen í Normandí um Norðurlöndin. Héraðið er enda það svæði í Frakklandi sem tengist Norðurlöndum hvað sterkustum böndum. Norrænir menn settust þar að á miðöldum og Normannar leggja í dag þónokkra rækt við þá sögu, m.a. með gríðarstórri menningarhátíð sem fer fram í 2-3 vikur á hverju ári. Hátíðin &lt;em&gt;Les Boréales&lt;/em&gt; á uppruna sinn að rekja til ársins 1992 en þá var hún haldin fyrst af norrænudeild háskólans í Caen. Norrænudeildin hefur verið starfrækt frá árinu 1956 og er þar nú eina fasta lektorsstaðan í íslenskum fræðum í gjörvöllu Frakklandi. Þetta framtak deildarinnar hefur síðan öðlast sjálfstætt líf eftir því sem hátíðin hefur vaxið í áranna rás. Nú vinna þrír starfsmenn í fullu starfi að hátíðinni árið um kring auk annarra starfsmanna og starfsnema yfir mesta annatímann. Fjöldi félagasamtaka, stofnana, skóla og einstaklinga koma að hátíðinni sem hefur verið sótt í hvert sinn af rúmlega 40 þúsund gestum á síðustu árum. Í gegnum tíðina hefur ýmist ákveðið þema verið valið til umfjöllunar eða eitt Norðurlandanna öðru fremur og í ár varð Ísland fyrir valinu.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;17.-30. nóvember sl. var Ísland á allra vörum í Caen og nágrenni. Margir helstu rithöfunda íslensku þjóðarinnar lögðu leið sína til borgarinnar og tóku þátt í pallborðsumræðum og viðtölum auk þess sem þeir hittu grunn- og framhaldsskólanemendur út um borg og bæi í syðri hluta héraðsins. Meðal þeirra voru Sjón, Steinunn Sigurðardóttir, Guðrún Eva Mínervudóttir, Kristín Marja Baldursdóttir, Árni Þórarinsson, Arnaldur Indriðason, Sigurður Pálsson og Jón Hallur Stefánsson. Efnt var til kvikmyndaveislu þar sem Frökkum var boðið að grandskoða og ræða kvikmyndir Friðriks Þórs Friðrikssonar, Sólveigar Anspach, Dags Kára, Baltasars Kormáks og Stúdíó Caoz. Tónlist lék einnig stórt hlutverk og ber þar helst að nefna tónleika Hamrahlíðarkórsins, Mr. Silla &amp;amp; Mongoose, Ghostdigital og Biogen auk kvikmyndatónleika Barða Jóhannssonar við sænsku kvikmyndina &lt;em&gt;Häxan&lt;/em&gt;. Íslenski dansflokkurinn var einnig í öndvegi og hélt Frakklandsfrumsýningar á fimm dansverkum. Norrænudeild háskólans í Caen skipulagði málþingið &lt;em&gt;L’Islande dans l’imaginaire&lt;/em&gt; um ímyndað Ísland með þátttöku 12 fræðimanna frá Frakklandi, Bretlandi, Bandaríkjunum og auðvitað Íslandi. Þá eru ótaldir margs konar listviðburðir, pallborðsumræður og sýningar. Það þarf því enginn að velkjast í vafa um að hátíðin er gríðarstór og gegnir þar af leiðandi mikilvægu hlutverki í að miðla og móta ákveðna ímynd af Íslandi. En hver skyldi sú ímynd vera þetta árið, svo stuttu eftir skipbrot íslenska efnahagskerfisins sem hefur svert orðspor Íslands í mörgum heimsins löndum?&lt;/p&gt;
 &lt;p&gt;Í stuttu máli sagt má vart merkja að Frakkar séu eitthvað minna hrifnir af Íslandi á krepputímum frekar en þegar allt virtist leika í lyndi. Fyrir Íslending sem fylgist með hátíðinni er það dálítið eins og að ferðast nokkra mánuði aftur í tímann og lenda fyrir tíma efnahagshrunsins þegar Íslendingar voru enn þvílíkir snillingar. Eða ferðast jafnvel enn lengra aftur til þess tíma þegar kreppa var ekki einu sinni í augsýn fróðra manna  og Íslendingar voru „einstakir sérvitringar“ sem voru við það að sigra heiminn. Þó má greina að sumt hefur breyst, t.a.m. virðist orð eins og „útrás“ og „útrásarvíkingar“ hafi horfið skyndilega úr hátíðarræðum íslenskra embættismanna. Önnur hugtök eins og „aðlögun“ og „sveigjanleiki“ eru að festa sig í sessi og veita e.t.v. vísbendingar um inntak þeirrar orðræðu sem verður ofan á í kjölfar bankahrunsins.&lt;/p&gt;
@@ -136,20 +143,21 @@ Helga Möller
 &lt;p&gt;Gegndarlaus áhersla á raunveruleg og ímynduð áhrif náttúrunnar á íslenskar menningarafurðir í upphafi 20. aldar leiðir óneitanlega hugann að greiningu Jóns Yngva Jóhannessonar á viðtökum danskra gagnrýnenda á verkum íslenskra rithöfunda og leikskálda um og eftir aldamótin 1900. Þar kemur fram að Íslendingar þjónuðu ákveðnu hlutverki sem „hinir“ eða „counter-identity“ í mótun danskrar sjálfsmyndar. Því lögðu gagnrýnendur sífellda áherslu á að finna í verkunum vísbendingar um áhrif íslenskrar náttúru og einfalds lifnaðarháttar.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ætli svipað sé uppi á teningunum enn í dag?&lt;/p&gt;
 &lt;p&gt;Málþing norrænudeildar háskólans í Caen var mikilvægasta undantekningin en samkvæmt einum skipuleggjendanna, Hönnu Steinunni Þorleifsdóttur, var málþingið „tilraun til að víkka sviðið og afbyggja klisjurnar um Ísland með fræðilegum erindum og um leið opna það fyrir almenning en slíkt er alla jafna ekki gert.“ Þar voru ímyndir Íslands í nútíð og fortíð sérstaklega til umræðu og þar fengu gestir ágætt yfirlit yfir sögu þeirrar orðræðu sem ríkti á öðrum viðburðum hátíðarinnar.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Ekki var laust við að þeir hinir sömu ættu í kjölfarið erfitt með að þola verstu dæmin um dýrkun og sjálfsdýrkun eins og hún birtist í hugmyndum um snilligáfu, hreinleika, náttúrubörn og náttúrulegan kraft lands og þjóðar.&lt;/p&gt;
 &lt;p&gt;Önnur mikilvæg undantekning var Arnaldur Indriðason. Aðdáendum gafst kostur á að eyða klukkustund í návist hans og þeir troðfylltu fyrirlestrarsal af stærri gerðinni og rúmlega það í kastalavirki borgarinnar, öryggisverðinum til mikils hrellis. Íslendingunum komu vinsældir hans mjög á óvart og varð undirrituð að svara Éric Boury, þýðanda Arnalds, neitandi þegar hann spurði hvort Íslendingar gerðu sér grein fyrir því hversu gífurlega vinsæll Arnaldur væri í Frakklandi. Ef til vill voru það einmitt þessar vinsældir hans sem gerðu það að verkum að allt annar bragur var á þessari klukkustund með Arnaldi en öðrum viðburðum hátíðarinnar. Þjóðerni hans og eiginleikar heimalandsins bar ekki á góma heldur sat hann fyrir svörum eins og hver annar virtur listamaður sem hefur náð góðu valdi á sínum miðli. Ekki sakaði að spyrjandinn var fagmaður fram í fingurgóma, Martine Laval hjá tímaritinu &lt;em&gt;Télérama&lt;/em&gt; sem á einmitt heiðurinn af því í Frakklandi að hafa uppgötvað Arnald. Annaðhvort var það hróðri Arnaldar fyrir að þakka eða frábærum spyrli sem andstætt flestum öðrum spyrlum og fundarstjórum hátíðarinnar var hreint ekki dolfallinn yfir Íslandi. Arnaldur reyndist vera eini íslenski listamaður hátíðarinnar sem tókst að stíga undan skugga Íslands, ef svo má að orði komast, og verða metinn á eigin forsendum en ekki forsendum þeirrar ímyndar sem ríkir af Íslandi og Íslendingum í Frakklandi.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 18 Dec 2008 11:21:26 GMT</pubDate>
-Caen
-Normandí
-Frakkland
-Les Boréales
-Arnaldur Indriðason
-Pixar
-Éric Boury
-    </item>
-    <item>
-      <title>Hugleiðing um þarfir barna fyrir náttúrutengingu</title>
-      <link>/articles/hugleiding-um-tharfir-barna-fyrir-natturutengingu/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/hugleiding-um-tharfir-barna-fyrir-natturutengingu/hugsandi_kristin_mynd_2.jpg&quot; alt=&quot;hugsandi_kristin_mynd_2&quot;&gt;&lt;/p&gt;
+</summary>
+    <category term="Caen"></category>
+    <category term="Normandí"></category>
+    <category term="Frakkland"></category>
+    <category term="Les Boréales"></category>
+    <category term="Arnaldur Indriðason"></category>
+    <category term="Pixar"></category>
+    <category term="Éric Boury"></category>
+  </entry>
+  <entry>
+    <title>Hugleiðing um þarfir barna fyrir náttúrutengingu</title>
+    <link href="/hugsandi-vefrit/articles/hugleiding-um-tharfir-barna-fyrir-natturutengingu/" rel="alternate"></link>
+    <updated>2008-12-16T15:50:09.000Z</updated>
+    <id>tag:null,2008-12-16:/hugsandi-vefrit/articles/hugleiding-um-tharfir-barna-fyrir-natturutengingu/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/hugleiding-um-tharfir-barna-fyrir-natturutengingu/hugsandi_kristin_mynd_2.jpg&quot; alt=&quot;hugsandi_kristin_mynd_2&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Fyrir nokkrum árum þegar ég var við doktorsnám í umhverfishönnun í Norður-Karólínu vann ég að rannsókn á áhrifum hverfahönnunar á útiveru og hreyfingu bandarískra barna. Hin 10 ára gamla Sara var ein af fjölda barna sem valin voru til þess að til að veita leiðsögn um uppáhaldsstaðina í hverfinu sínu. Ég fylgdi henni og hundinum hennar, Pepper, eftir í mikla ævintýraför um hennar nánasta umhverfi.&lt;/p&gt;
 &lt;p&gt;Fyrsti áfangastaðurinn var bakgarðurinn heima hjá henni. Garðurinn var stór og grasi gróinn og hallaði frá húsinu niður að skóglendi. Sara var stolt af garðinum sínum en vildi ekki eyða miklum tíma þar. Við gengum í gegnum garðinn að þéttum skógarjaðri. Sara gekk alveg að jaðrinum, beygði sig niður og skreið í gengum lítið op á þykkninu, niður bakka og kom þar að litlum læk. Hún fór þetta lipurlega og af öryggi og ég á eftir, ekki alveg jafn mjúklega en áfallalaust þó.&lt;/p&gt;
 &lt;p&gt;Við lækinn tók Sara af sér skóna og sagði að ég yrði að gera slíkt hið sama. Leiðin lá eftir læknum inn í þykkan skóginn. Svitinn rann af mér því það var mjög heitt í veðri. Sara var forsjál og hafði tekið vatn með fyrir okkur. Við gengum eftir volgum læknum í nokkrar mínútur þar til við komum að stóru föllnu tré sem lá þvert yfir lækinn. Sara snéri sér að mér og tilkynnti rólega að við værum komnar að tréhúsinu hennar.&lt;/p&gt;
@@ -167,14 +175,15 @@ Pixar
 &lt;p&gt;Síðasti staðurinn sem við heimsóttum var í skóginum á bak við skólalóðina í hverfinu. „Þarna er skúr sem bruggarar notuðu í gamla daga,“ segir Sara. „Hann gengur undir nafninu „Moonshiners Cabin“ vegna þess að þeir brugguðu í skjóli nætur.“ Þar hefur hún einmitt fundið aragrúa af spennandi hlutum; flöskur, koparstykki, túpur, gorma…  „Þetta er ótrúlega dularfullur staður sem á bráðum að gera að almenningsgarði,“ sagði Sara, frekar súr á svipinn.&lt;/p&gt;
 &lt;p&gt;Áður en ég lagði upp í þennan ógleymanlegu leiðangur um hverfið hennar Söru var mynd mín af umhverfinu allt önnur. Myndin sem ég hafði var af fallegu en „of“ snyrtilegu hverfi með almenningsstöðum sem fáir nota. Eftir leiðangurinn með sérfræðingi hverfisins leit ég á það sem ævintýraheim sem uppgötvast ekki nema að skyggnst sé dýpra inn í umhverfið og sjálfið. Sara er, eins og flest börn, ótrúlega næm á umhverfi sitt, með sterka náttúrutengingu og greinilega mikla þörf fyrir hana.&lt;/p&gt;
 &lt;p&gt;Aukning ýmissa lífstílssjúkdóma hefur verið mikið í umræðunni undanfarin ár og taka sum meðferðarúrræðin mið af lækningamætti náttúrunnar. Sara þjáist af ofvirkni og er með athyglisbrest en það var hvorki að sjá né finna í þessum leiðangri. Öll börn hafa mikla þörf fyrir tengingu við umhverfi sitt og því er mikilvægt að taka tillit til þeirra þarfa í hverfaskipulagi.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 16 Dec 2008 15:50:09 GMT</pubDate>
-borgarskipulag
-    </item>
-    <item>
-      <title>Íþróttir fyrir alla. Sigur fyrir suma</title>
-      <link>/articles/ithrottir-fyrir-alla-sigur-fyrir-suma-2/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/ithrottir-fyrir-alla-sigur-fyrir-suma-2/didrikson_olympics_a21.jpg&quot; alt=&quot;didrikson_olympics_a21&quot;&gt; &lt;/p&gt;
+</summary>
+    <category term="borgarskipulag"></category>
+  </entry>
+  <entry>
+    <title>Íþróttir fyrir alla. Sigur fyrir suma</title>
+    <link href="/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma-2/" rel="alternate"></link>
+    <updated>2008-12-12T18:51:29.000Z</updated>
+    <id>tag:null,2008-12-12:/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma-2/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma-2/didrikson_olympics_a21.jpg&quot; alt=&quot;didrikson_olympics_a21&quot;&gt; &lt;/p&gt;
 &lt;p&gt;Eins og áður kom fram hafði aðalhvatamaður nútíma ólympíuleika, franski baróninn Pierre De Coubertin skýrar hugmyndir um íþróttaiðkun og konur. Konur mættu stunda hóflega hreyfingu, en útiloka ætti konur frá keppnum. Í augum De Coubertins var keppnisandinn og sú upphafning mannsandans sem honum fylgdu, heilagur og algerlega forboðinn konum. &lt;/p&gt;
 &lt;p&gt;Þessi háfleygi þankagangur átti sér líka efnislega hliðstæðu. Þrátt fyrir að kvenkynskeppendum hefði tekist að komast að sem ólympískir keppendur eftir krókaleiðum í t.d tennis og bogfimi á frá og með leikunum 1900 var þeim meinaður aðgangur að altari ólympíuandans, eða ólympíuleikvanginum sjálfum þar til árið 1928. „Konur eiga ekkert erindi inn á ólympíuleikvangin nema þá til að krýna sigurvegarana, sviti kvenna saurgar ólympíuleikvanginn“ voru orð De Coubertins og Alþjóðlega ólympíunefndin (IOC) var honum furðu leiðitöm í þessu málefni.&lt;/p&gt;
 &lt;p&gt;Það var annars engin nýlunda að meina konum aðgang að íþróttaleikvöngum, slíkt hafði tíðkast t.d á Bretlandi á fyrstu áratugum tuttugustu aldar, en lagðist af á árunum eftir fyrra stríð, enda stóðu leikvangarnir svo gott sem tómir yfir stríðsárin sem íþróttakonur færðu sér í nyt.&lt;/p&gt;
@@ -203,42 +212,44 @@ borgarskipulag
 &lt;li&gt;Scraton, Sheila og Flintoff, Anne. Gender and Sport: A Reader. New York. 2002&lt;/li&gt;
 &lt;li&gt;Women in sport. Volume VII of the encyclopaedia of sports medicine, an IOC medical committiee publication. Barbara L. Drinkwater ritstýrði. Oxford 2000.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-      <pubDate>Fri, 12 Dec 2008 18:51:29 GMT</pubDate>
-Íþróttir
-konur
-ólympíuleikar
-IOC
-Pierre De Coubertin
-frjálsar íþróttir
-sund
-Kynferði
-London
-Sovétríkin
-Bandaríkin
-    </item>
-    <item>
-      <title>Nýr skólabúðingur</title>
-      <link>/articles/nyr-skolabudingur/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/nyr-skolabudingur/sl3712301.jpg&quot; alt=&quot;Gómsætur og spennandi kostur?&quot;&gt;&lt;/p&gt;
+</summary>
+    <category term="Íþróttir"></category>
+    <category term="konur"></category>
+    <category term="ólympíuleikar"></category>
+    <category term="IOC"></category>
+    <category term="Pierre De Coubertin"></category>
+    <category term="frjálsar íþróttir"></category>
+    <category term="sund"></category>
+    <category term="Kynferði"></category>
+    <category term="London"></category>
+    <category term="Sovétríkin"></category>
+    <category term="Bandaríkin"></category>
+  </entry>
+  <entry>
+    <title>Nýr skólabúðingur</title>
+    <link href="/hugsandi-vefrit/articles/nyr-skolabudingur/" rel="alternate"></link>
+    <updated>2008-12-09T09:14:01.000Z</updated>
+    <id>tag:null,2008-12-09:/hugsandi-vefrit/articles/nyr-skolabudingur/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/nyr-skolabudingur/sl3712301.jpg&quot; alt=&quot;Gómsætur og spennandi kostur?&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Nú fer fram nokkur umræða innan framhaldsskóla um eðli, umfang og inntak náms. Umræðan er hluti af því að hver skóli skal nú, í samræmi við ný lög um skólastigið, ákveða sína heildarstefnu auk innihalds og aðferða á hverri braut og í hverjum áfanga. Væntanlega mun nám á framhaldsskólastigi í kjölfarið taka töluverðum breytingum. Hvert eiga framhaldsskólar að stefna? Hvernig eiga þeir að komast þangað og hvers vegna ættu þeir að hugsa sér til hreyfings?&lt;/p&gt;
 &lt;p&gt;Nám í íslenskum framhaldsskólum er í dag á margan hátt fjölbreytt, hægt er að velja aragrúa mismunandi brauta í töluvert ólíkum skólum sem skipta nú tugum. Ætla mætti að allir sem áhuga hafa á framhaldsskólanámi fyndu sér eitthvað við sitt hæfi en svo er þó alls ekki. Mikið brottfall hefur verið undanfarin ár og ein helsta skýringin sem tínd hefur verið til er að nemendur finni ekki nám og námsskipulag sem hentar þeim sem sýnir sig í leiða og litlu áliti á eigin hæfni.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Hugsanlega hefur reyndar líka verið auðveldara að láta sér leiðast á meðan hægt var að ganga að starfi sem vísu þrátt fyrir menntunarleysi en hér er ekki ætlunin að fjalla um brottfall nemenda heldur vekja athygli á að í grunninn bjóða um 30 skólar upp á sama bóknámið. Sömu námsskrá, sömu áfangana með sömu markmiðunum og sama innihaldinu og þar af leiðandi oft sama námsefninu.&lt;/p&gt;
 &lt;p&gt;Enda er bundið í lög hvað skal kenna í hvaða áfanga. Þannig er lítið mál fyrir nemendur að flytja sig á milli skóla með áunnar einingar því saga 103 er, svo dæmi sé tekið, lögum samkvæmt sami áfanginn alls staðar. Nokkurt hagræði má ætla að náist með þessu skipulagi. Jafnframt næst ákveðin samræming og stúdentspróf verða líkari að inntaki þrátt fyrir ólíka skóla. Allir sem að hafa komið vita þó að raunin er alls ekki svo einföld - áherslur og kröfur til nemenda eru afar mismunandi milli skóla og þannig verður stúdentspróf úr einum skóla aldrei fullkomlega sambærilegt við próf úr þeim næsta.&lt;/p&gt;
 &lt;p&gt;Ný lög um framhaldsskóla voru samþykkt fyrr á þessu ári og gjörbreyta allri umgjörð skóla.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Enn starfa skólar þó eftir eldri lögum enda þarf hver og ein stofnun að gagna í gegnum mikið sjálfskoðunarferli áður en nýju lögunum verður fylgt eftir. Helgast það af því að nú mun menntamálaráðuneytið ekki gefa út nákvæma námskrá sem gildir fyrir alla framhaldsskóla heldur gerir hver skóli sína námskrá, ákveður áherslur innan sinna veggja, hver markmiðin verða sem og leiðirnar að þeim. Námskrár og brautalýsingar þurfa að vera samþykktar af ráðuneytinu.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Þannig er horfið frá þeirri stefnu að lögbinda hvernig saga 103 sé skilgreind, svo haldið sé áfram með sama dæmið. Ein fjölmargra afleiðinga þessa er að stúdentspróf verða afar ólík milli skóla - ekki bara með tilliti til þeirra krafna sem gerðar eru til nemenda heldur ekki síður að uppbyggingu og innihaldi.&lt;/p&gt;
 &lt;p&gt;Þetta skapar nokkra óvissu um hvernig nemendur verða metnir inn í háskólanám, líkt og óvíst er hvernig grunnskólanemendur verða nú metnir inn í framhaldsskóla þegar helsta mælitækinu (samræmdum prófum) hefur verið lógað. Mælingar og samræmi eru þó vitaskuld einungis yfirborðsvandi þegar móta á nýtt menntakerfi. Það sem sjónum er beint að nú þegar tækifæri gefst til að skapa skóla nánast frá grunni er hvers konar nám viljum við bjóða upp á, fyrir hverja og hvernig getum við mótað skólastarfið fyrir þá? Greinarhöfundi er einungis kunnugt um að einn skóli hafi þegar gefið út hvernig hann ætli sér að bregðast við nýfegnu frelsi og nýsköpunartækifæri - Menntaskólinn í Reykjavík ætlar engu að breyta.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/nyr-skolabudingur/william_turner_-_snowstorm2.jpg&quot; alt=&quot;Hversu vel sjáum við fram fyrir okkur? (Kafaldsbylur eftir W. Turner)&amp;quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/nyr-skolabudingur/william_turner_-_snowstorm2.jpg&quot; alt=&quot;Hversu vel sjáum við fram fyrir okkur? (Kafaldsbylur eftir W. Turner)&amp;quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;En þeir sem halda að hægt sé að gera betur velta fyrir sér hvort bjóða eigi upp á breiða undirstöðumenntun eða möguleika á sérhæfðum undirbúningi fyrir frekara nám.Fyrirséð er að allir nemendur á landinu munu ekki hafa sama grunninn og spurningin því hvort ákveðinn skóli eigi að sérhæfa sig í að veita breiða undirstöðumenntun fyrir fjölbreytt háskólanám (húmanísk menntunarstefna) eða í því að búa nemendur undir háskólanám á ákveðnum sviðum (sérhæfing verðandi sérfræðinga) og þá á hvaða sviðum. Í framkvæmd þýðir þetta fyrir framhaldsskóla hversu stóran hluta námsins eigi að binda í kjarna, hvort bjóða eigi upp á mismunandi brautir og þá hverjar og hversu margir áfangar séu bundnir við brautirnar, eða hvort nemendur eigi að hafa frjálsar hendur um val á námi innan skólans.&lt;/p&gt;
 &lt;p&gt;Þar sem eitt helsta hlutverk bóknáms til stúdentsprófs er undirbúningur undir háskólanám er nauðsynlegt að heyra frá háskólaborgurum landsins. Hvaða grunnþekkingu og færni þurfa nemendur að hafa við inngöngu, ekki bara fyrir einstakar deildir heldur almennt? Eða er ef til vill engin sameiginlegur grunnur nauðsynlegur, er engin forþekking og færni sem læknanemi þarf að eiga sameiginlega með skólabróður sínum í bókmenntafræði eða skólasystur í verkfræði? Ef við teljum að sitthvað bindi saman þessi skólasystkini, í hverju liggur það? Einstökum fögum og innihaldi þeirra? Almennri færni og hugsunarhætti?&lt;/p&gt;
-</description>
-      <pubDate>Tue, 09 Dec 2008 09:14:01 GMT</pubDate>
-framhaldsskóli
-menntun
-stúdentspróf
-    </item>
-    <item>
-      <title>Íþróttir fyrir alla. Sigur fyrir suma.</title>
-      <link>/articles/ithrottir-fyrir-alla-sigur-fyrir-suma/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/ithrottir-fyrir-alla-sigur-fyrir-suma/didrikson_olympics_a21.jpg&quot; alt=&quot;didrikson_olympics_a21&quot;&gt; &lt;/p&gt;
+</summary>
+    <category term="framhaldsskóli"></category>
+    <category term="menntun"></category>
+    <category term="stúdentspróf"></category>
+  </entry>
+  <entry>
+    <title>Íþróttir fyrir alla. Sigur fyrir suma.</title>
+    <link href="/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma/" rel="alternate"></link>
+    <updated>2008-12-03T18:57:49.000Z</updated>
+    <id>tag:null,2008-12-03:/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma/</id>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hugsandi-vefrit/articles/ithrottir-fyrir-alla-sigur-fyrir-suma/didrikson_olympics_a21.jpg&quot; alt=&quot;didrikson_olympics_a21&quot;&gt; &lt;/p&gt;
 &lt;p&gt;Það var franski baróninn Pierre De Coubertin sem á heiðurinn af nútíma ólympíuleikum. Eða, eins og hann leit á málið, endurvakningu ólympíuleikanna. De Coubertin taldi sig ekki vera að skapa nýja leika, heldur aðeins endurvekja glæsilega arfleið frá forn Grikkjum. Samt sem áður eiga nútíma Ólympíuleikar fátt skilt við grísku leikana, nema einna helst nafnið og ólympíueldinn. &lt;/p&gt;
 &lt;p&gt;De Coubertin byggði hugmyndafræðina að baki Ólympíuleikunum  á innblásinni hugsjón um drengilega keppni, frið, bræðralag og alsherjar upphafningu mannsandans í gegnum iðkun íþrótta. Út frá skrifum De Coubertins um ólympíuandann hafa sprottið þau algegnu hversdagssannnindi að íþróttir standi hálfpartinn fyrir utan samfélagið og séu ónæmar fyrir áhrifum frá því. &lt;/p&gt;
 &lt;p&gt;Uppskrúfaður stíll De Coubertins í skrifum um íþróttir og gildi þeirra var ætíð beint til alls mannkyns, en þó dylst engum að bæði hugsjónir og íþróttakeppnir voru ekki fyrir alla.  Það kom  í hlut einstakra landa, sérsambanda og aðila að útfæra hugmyndirnar nánar.  Í  Bandaríkjunum fór t.d. fljótt að bera á mikilli kynþáttahyggju í íþróttum, þrátt fyrir að fremstu frjálsíþróttamenn fyrri hluta tuttugustu aldar, t.d Jessie Owens, kæmu úr röðum þeldökkra Bandaríkjamanna. Þessi kynþáttahygggja átti sér líka sterkan hljómgrunn í Evrópu og í því samhengi má nefna leikana í Berlín 1936 sem voru einskonar skrautsýning til heiðurs nasismanum. De Coubertin var líka alla tíð mjög andvígur keppni kvenna og lét þá skoðun óspart í ljós í skrifum sínum. Samkvæmt hugmyndum De Coubertin var keppni og sú vegsemd sem fólst í því að vera sigurvegari engöngu fyrir karlmenn. Dýrðarljómi ólympíusigurvegarans var aðeins fyrir karlmenn og samkvæmt De Coubertin „getur hin eina sanna ólympíuhetja aðeins verið karlmaður“ og „enginn kona getur tekið þátt í íþróttagreinum sem karlmenn stunda“.&lt;/p&gt;
@@ -258,14 +269,12 @@ stúdentspróf
 &lt;li&gt;Scraton, Sheila og Flintoff, Anne. Gender and Sport: A Reader. New York. 2002&lt;/li&gt;
 &lt;li&gt;Women in sport. Volume VII of the encyclopaedia of sports medicine, an IOC medical committiee publication. Barbara L. Drinkwater ritstýrði. Oxford 2000.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-      <pubDate>Wed, 03 Dec 2008 18:57:49 GMT</pubDate>
-Íþróttir
-konur
-Kynjafræði
-ólympíuleikar
-IOC
-Pierre De Coubertin
-    </item>
-  </channel>
-</rss>
+</summary>
+    <category term="Íþróttir"></category>
+    <category term="konur"></category>
+    <category term="Kynjafræði"></category>
+    <category term="ólympíuleikar"></category>
+    <category term="IOC"></category>
+    <category term="Pierre De Coubertin"></category>
+  </entry>
+</feed>
